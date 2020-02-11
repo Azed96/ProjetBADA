@@ -1,6 +1,6 @@
 # ProjetBADA
 
-Professeur : Didier Courteaud
+Professeur : Didier Courtaud
 
 ## Groupe
 
