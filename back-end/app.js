@@ -19,11 +19,18 @@ mongoose.connect('mongodb+srv://root:root@bada-fvexe.mongodb.net/test',
     .then(() => console.log('Connexion à MongoDB réussie !'))
     .catch(() => console.log('Connexion à MongoDB échouée !'));
 
-
+app.get('/', function(req,res) {
+    console.log('hello world !');
+    res.send("hello world !");
+})
 
 app.use((req, res, next) => {
     res.json({ message: 'Votre requête a bien été reçue !' });
     next();
 });
 
+
+app.listen(process.env.PORT || '3012', function () {
+    console.log('Example app listening on port '+port+'!')
+  })
 module.exports = app;

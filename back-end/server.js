@@ -44,4 +44,6 @@ server.on('listening', () => {
     console.log('Listening on ' + bind);
 });
 
-server.listen(port);
+app.listen(port, function () {
+    console.log('Example app listening on port '+port+'!')
+  })
