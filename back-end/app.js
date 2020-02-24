@@ -13,6 +13,7 @@ app.use((req, res, next) => {
     next();
 });
 
+
 // Connexion to mongoDb
 mongoose.connect('mongodb://localhost:27017/BADA',
     { useNewUrlParser: true,
@@ -20,9 +21,28 @@ mongoose.connect('mongodb://localhost:27017/BADA',
     .then(() => console.log('Connexion à MongoDB réussie !'))
     .catch(() => console.log('Connexion à MongoDB échouée !'));
 
+let db = mongoose.connection;
+
+function printSchema(obj) {
+    for (var key in obj) {
+        print(indent, key, typeof obj[key]) ;
+    }
+};
+
 app.get('/', function(req,res) {
-    console.log('hello world !');
-    res.send("hello world !");
+    var groupe = db.collection('LES_SEANCES').find({
+        "LES_RESSOURCES.UNE_RESSOURCE.CODE_RESSOURCE" : "s"
+    }).toArray(function (err, data) {
+        res.send(data);
+    });
+})
+
+app.get('/seance/:code', function(req,res) {
+    var groupe = db.collection('LES_SEANCES').find({
+        "LES_RESSOURCES.UNE_RESSOURCE.CODE_RESSOURCE" : req.params.code
+    }).toArray(function (err, data) {
+        res.send(data);
+    });
 })
 
 app.use((req, res, next) => {
