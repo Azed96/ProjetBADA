@@ -1,0 +1,958 @@
+[
+    {
+      "UN_CNU": [
+        {
+          "CODE": [
+            "188"
+          ],
+          "SECTION": [
+            "1"
+          ],
+          "NOM": [
+            "DROIT PRIVE ET SCIENCES CRIMINELLES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7257407407"
+          ]
+        },
+        {
+          "CODE": [
+            "189"
+          ],
+          "SECTION": [
+            "2"
+          ],
+          "NOM": [
+            "DROIT PUBLIC"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7257407407"
+          ]
+        },
+        {
+          "CODE": [
+            "190"
+          ],
+          "SECTION": [
+            "3"
+          ],
+          "NOM": [
+            "HISTOIRE DU DROIT ET DES INSTITUTIONS"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7257407407"
+          ]
+        },
+        {
+          "CODE": [
+            "191"
+          ],
+          "SECTION": [
+            "4"
+          ],
+          "NOM": [
+            "SCIENCE POLITIQUE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "192"
+          ],
+          "SECTION": [
+            "5"
+          ],
+          "NOM": [
+            "SCIENCES ECONOMIQUES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7283333333"
+          ]
+        },
+        {
+          "CODE": [
+            "193"
+          ],
+          "SECTION": [
+            "6"
+          ],
+          "NOM": [
+            "SCIENCES DE GESTION"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "194"
+          ],
+          "SECTION": [
+            "7"
+          ],
+          "NOM": [
+            "SCIENCES DU LANGAGE  : LINGUISTIQUE ET PHONETIQUE GENERALES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7302199074"
+          ]
+        },
+        {
+          "CODE": [
+            "195"
+          ],
+          "SECTION": [
+            "8"
+          ],
+          "NOM": [
+            "LANGUES ET LITTERATURES ANCIENNES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "196"
+          ],
+          "SECTION": [
+            "9"
+          ],
+          "NOM": [
+            "LANGUE ET LITTERATURE FRANCAISES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "197"
+          ],
+          "SECTION": [
+            "10"
+          ],
+          "NOM": [
+            "LITTERATURES COMPAREES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "198"
+          ],
+          "SECTION": [
+            "11"
+          ],
+          "NOM": [
+            "LANGUES ET LITTERATURES ANGLAISES ET ANGLO-SAXONNES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "199"
+          ],
+          "SECTION": [
+            "12"
+          ],
+          "NOM": [
+            "LANGUES ET LITTERATURES GERMANIQUES ET SCANDINAVES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "200"
+          ],
+          "SECTION": [
+            "13"
+          ],
+          "NOM": [
+            "LANGUES ET LITTERATURES SLAVES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "201"
+          ],
+          "SECTION": [
+            "14"
+          ],
+          "NOM": [
+            "LANGUES ET LITTERATURES ROMANES  ESPAGNOL ITALIEN PORTUGAIS AUTRES LANGUES ROMANES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "202"
+          ],
+          "SECTION": [
+            "15"
+          ],
+          "NOM": [
+            "LANGUES ET LITTERATURES ARABES CHINOISES JAPONAISES HEBRAIQUE D AUTRES DOMAINES LINGUISTIQUES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7312962963"
+          ]
+        },
+        {
+          "CODE": [
+            "203"
+          ],
+          "SECTION": [
+            "16"
+          ],
+          "NOM": [
+            "PSYCHOLOGIE PSYCHOLOGIE CLINIQUE PSYCHOLOGIE SOCIALE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "204"
+          ],
+          "SECTION": [
+            "17"
+          ],
+          "NOM": [
+            "PHILOSOPHIE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "205"
+          ],
+          "SECTION": [
+            "18"
+          ],
+          "NOM": [
+            "ARCHITECTURE  ARTS APPLIQUES ARTS PLASTIQUES ARTS DU SPECTACLE EPISTEMOLOGIE DES ENSEIGNEMENTS ARTISTIQUES ESTHETIQUE MUSICOLOGIE MUSIQUE SCIENCES DE L ART"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7318287037"
+          ]
+        },
+        {
+          "CODE": [
+            "206"
+          ],
+          "SECTION": [
+            "19"
+          ],
+          "NOM": [
+            "SOCIOLOGIE DEMOGRAPHIE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7330787037"
+          ]
+        },
+        {
+          "CODE": [
+            "207"
+          ],
+          "SECTION": [
+            "20"
+          ],
+          "NOM": [
+            "ANTHROPOLOGIE ETHNOLOGIE PREHISTOIRE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7330787037"
+          ]
+        },
+        {
+          "CODE": [
+            "208"
+          ],
+          "SECTION": [
+            "21"
+          ],
+          "NOM": [
+            "HISTOIRE ET CIVILISATIONS  HISTOIRE ET ARCHOLOGIE DES MONDES ANCIENS ET DES MONDES MEDIEVAUX"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "209"
+          ],
+          "SECTION": [
+            "22"
+          ],
+          "NOM": [
+            "HISTOIRE ET CIVILISATIONS  HISTOIRE DES MONDES MODERNES HISTOIRE DU MONDE CONTEMPORAIN"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "210"
+          ],
+          "SECTION": [
+            "23"
+          ],
+          "NOM": [
+            "GEOGRAPHIE PHYSIQUE HUMAINE ECONOMIQUE ET REGIONALE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7330787037"
+          ]
+        },
+        {
+          "CODE": [
+            "211"
+          ],
+          "SECTION": [
+            "24"
+          ],
+          "NOM": [
+            "AMENAGEMENT DE LESPACE URBANISME"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7261805556"
+          ]
+        },
+        {
+          "CODE": [
+            "212"
+          ],
+          "SECTION": [
+            "25"
+          ],
+          "NOM": [
+            "MATHEMATIQUES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7261805556"
+          ]
+        },
+        {
+          "CODE": [
+            "213"
+          ],
+          "SECTION": [
+            "26"
+          ],
+          "NOM": [
+            "MATHEMATIQUES APPLIQUEES ET APPLICATIONS DES MATHMATIQUES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7261805556"
+          ]
+        },
+        {
+          "CODE": [
+            "214"
+          ],
+          "SECTION": [
+            "27"
+          ],
+          "NOM": [
+            "INFORMATIQUE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "215"
+          ],
+          "SECTION": [
+            "28"
+          ],
+          "NOM": [
+            "MILIEUX DENSES ET MATRIAUX"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "216"
+          ],
+          "SECTION": [
+            "29"
+          ],
+          "NOM": [
+            "CONSTITUANTS ELEMENTAIRES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7330787037"
+          ]
+        },
+        {
+          "CODE": [
+            "217"
+          ],
+          "SECTION": [
+            "30"
+          ],
+          "NOM": [
+            "MILIEUX DILUES ET OPTIQUE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7330787037"
+          ]
+        },
+        {
+          "CODE": [
+            "218"
+          ],
+          "SECTION": [
+            "31"
+          ],
+          "NOM": [
+            "CHIMIE THEORIQUE PHYSIQUE ANALYTIQUE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7274652778"
+          ]
+        },
+        {
+          "CODE": [
+            "219"
+          ],
+          "SECTION": [
+            "32"
+          ],
+          "NOM": [
+            "CHIMIE ORGANIQUE MINERALE INDUSTRIELLE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7330787037"
+          ]
+        },
+        {
+          "CODE": [
+            "220"
+          ],
+          "SECTION": [
+            "33"
+          ],
+          "NOM": [
+            "CHIMIE DES MATRIAUX"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "221"
+          ],
+          "SECTION": [
+            "34"
+          ],
+          "NOM": [
+            "ASTRONOMIE ASTROPHYSIQUE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "222"
+          ],
+          "SECTION": [
+            "35"
+          ],
+          "NOM": [
+            "STRUCTURE ET EVOLUTION DE LA TERRE ET DES AUTRES PLANTES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7274652778"
+          ]
+        },
+        {
+          "CODE": [
+            "223"
+          ],
+          "SECTION": [
+            "36"
+          ],
+          "NOM": [
+            "TERRE SOLIDE  GEODYNAMIQUE DES ENVELOPPES SUPRIEURES PALEOBIOSPHERE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7330787037"
+          ]
+        },
+        {
+          "CODE": [
+            "224"
+          ],
+          "SECTION": [
+            "37"
+          ],
+          "NOM": [
+            "METEOROLOGIE OCANOGRAPHIE PHYSIQUE ET PHYSIQUE DE L ENVIRONNEMENT"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7330787037"
+          ]
+        },
+        {
+          "CODE": [
+            "225"
+          ],
+          "SECTION": [
+            "39"
+          ],
+          "NOM": [
+            "SCIENCES PHYSICO-CHIMIQUES ET TECHNOLOGIES PHARMACEUTIQUES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "226"
+          ],
+          "SECTION": [
+            "40"
+          ],
+          "NOM": [
+            "SCIENCES DU MEDICAMENT"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7281597222"
+          ]
+        },
+        {
+          "CODE": [
+            "227"
+          ],
+          "SECTION": [
+            "41"
+          ],
+          "NOM": [
+            "SCIENCES BIOLOGIQUES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "228"
+          ],
+          "SECTION": [
+            "60"
+          ],
+          "NOM": [
+            "MECANIQUE GENIE MECANIQUE GENIE CIVIL"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "229"
+          ],
+          "SECTION": [
+            "61"
+          ],
+          "NOM": [
+            "GENIE INFORMATIQUE AUTOMATIQUE ET TRAITEMENT DU SIGNAL"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "230"
+          ],
+          "SECTION": [
+            "62"
+          ],
+          "NOM": [
+            "ENERGTIQUE GENIE DES PROCEDES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "231"
+          ],
+          "SECTION": [
+            "63"
+          ],
+          "NOM": [
+            "GENIE ELECTRIQUE ELECTRONIQUE PHOTONIQUE ET SYSTEMES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7340162037"
+          ]
+        },
+        {
+          "CODE": [
+            "232"
+          ],
+          "SECTION": [
+            "64"
+          ],
+          "NOM": [
+            "BIOCHIMIE ET BIOLOGIE MOLECULAIRE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "233"
+          ],
+          "SECTION": [
+            "65"
+          ],
+          "NOM": [
+            "BIOLOGIE CELLULAIRE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "234"
+          ],
+          "SECTION": [
+            "66"
+          ],
+          "NOM": [
+            "PHYSIOLOGIE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "235"
+          ],
+          "SECTION": [
+            "67"
+          ],
+          "NOM": [
+            "BIOLOGIE DES POPULATIONS ET ECOLOGIE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "236"
+          ],
+          "SECTION": [
+            "68"
+          ],
+          "NOM": [
+            "BIOLOGIE DES ORGANISMES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "237"
+          ],
+          "SECTION": [
+            "69"
+          ],
+          "NOM": [
+            "NEUROSCIENCES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "238"
+          ],
+          "SECTION": [
+            "70"
+          ],
+          "NOM": [
+            "SCIENCES DE L EDUCATION"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "239"
+          ],
+          "SECTION": [
+            "71"
+          ],
+          "NOM": [
+            "SCIENCES DE L INFORMATION ET DE LA COMMUNICATION"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "240"
+          ],
+          "SECTION": [
+            "72"
+          ],
+          "NOM": [
+            "EPISTEMOLOGIE HISTOIRE DES SCIENCES ET DES TECHNIQUES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7281597222"
+          ]
+        },
+        {
+          "CODE": [
+            "241"
+          ],
+          "SECTION": [
+            "73"
+          ],
+          "NOM": [
+            "CULTURES ET LANGES REGIONALES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "242"
+          ],
+          "SECTION": [
+            "74"
+          ],
+          "NOM": [
+            "SCIENCES ET TECHNIQUES DES ACTIVITES PHYSIQUES ET SPORTIVES"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        },
+        {
+          "CODE": [
+            "243"
+          ],
+          "SECTION": [
+            "75"
+          ],
+          "NOM": [
+            "THEOLOGIE CATHOLIQUE"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ],
+          "DATE_MODIFICATION": [
+            "40574,7249768519"
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,326 @@
+[
+    {
+      "UN_NIVEAU": [
+        {
+          "CODE": [
+            "27785297"
+          ],
+          "DATE_MODIFICATION": [
+            "41296,4659143519"
+          ],
+          "NOM": [
+            "SEMESTRE 1"
+          ],
+          "ALIAS": [
+            "SEM1"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COULEUR": [
+            "16777088"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "TYPE_ELEMENT": [
+            "2"
+          ]
+        },
+        {
+          "CODE": [
+            "27785298"
+          ],
+          "DATE_MODIFICATION": [
+            "41296,4660069444"
+          ],
+          "NOM": [
+            "SEMESTRE 2"
+          ],
+          "ALIAS": [
+            "SEM2"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COULEUR": [
+            "4227327"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "TYPE_ELEMENT": [
+            "2"
+          ]
+        },
+        {
+          "CODE": [
+            "27785299"
+          ],
+          "DATE_MODIFICATION": [
+            "41296,4658333333"
+          ],
+          "NOM": [
+            "ANNUEL"
+          ],
+          "ALIAS": [
+            "ANNUEL"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COULEUR": [
+            "8421376"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "TYPE_ELEMENT": [
+            "2"
+          ]
+        },
+        {
+          "CODE": [
+            "27785300"
+          ],
+          "DATE_MODIFICATION": [
+            "41299,5677199074"
+          ],
+          "NOM": [
+            "L1"
+          ],
+          "ALIAS": [
+            "L1"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "TYPE_ELEMENT": [
+            "1"
+          ]
+        },
+        {
+          "CODE": [
+            "27785301"
+          ],
+          "DATE_MODIFICATION": [
+            "41299,5678356482"
+          ],
+          "NOM": [
+            "L2"
+          ],
+          "ALIAS": [
+            "L2"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "TYPE_ELEMENT": [
+            "1"
+          ]
+        },
+        {
+          "CODE": [
+            "27785302"
+          ],
+          "DATE_MODIFICATION": [
+            "41299,5679398148"
+          ],
+          "NOM": [
+            "L3"
+          ],
+          "ALIAS": [
+            "L3"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            "L3"
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "TYPE_ELEMENT": [
+            "1"
+          ]
+        },
+        {
+          "CODE": [
+            "27785303"
+          ],
+          "DATE_MODIFICATION": [
+            "41299,5680208333"
+          ],
+          "NOM": [
+            "M1"
+          ],
+          "ALIAS": [
+            "M1"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "TYPE_ELEMENT": [
+            "1"
+          ]
+        },
+        {
+          "CODE": [
+            "27785304"
+          ],
+          "DATE_MODIFICATION": [
+            "41299,5680902778"
+          ],
+          "NOM": [
+            "M2"
+          ],
+          "ALIAS": [
+            "M2"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "TYPE_ELEMENT": [
+            "1"
+          ]
+        },
+        {
+          "CODE": [
+            "27785305"
+          ],
+          "DATE_MODIFICATION": [
+            "41299,5681712963"
+          ],
+          "NOM": [
+            "M3"
+          ],
+          "ALIAS": [
+            "M3"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "TYPE_ELEMENT": [
+            "1"
+          ]
+        },
+        {
+          "CODE": [
+            "27785306"
+          ],
+          "DATE_MODIFICATION": [
+            "41299,5746527778"
+          ],
+          "NOM": [
+            "LP"
+          ],
+          "ALIAS": [
+            "LP"
+          ],
+          "COMMENTAIRE": [
+            "Licence Pro"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "TYPE_ELEMENT": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ]

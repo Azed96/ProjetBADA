@@ -1,0 +1,122 @@
+[
+    {
+      "UNE_ZONE_DE_SALLE": [
+        {
+          "CODE": [
+            "3000258"
+          ],
+          "DATE_MODIFICATION": [
+            "41457,6620138889"
+          ],
+          "NOM": [
+            "IBGBI"
+          ],
+          "ALIAS": [
+            "IBGBI"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "3000259"
+          ],
+          "DATE_MODIFICATION": [
+            "41457,6620138889"
+          ],
+          "NOM": [
+            "IDF"
+          ],
+          "ALIAS": [
+            "IDF"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "3000260"
+          ],
+          "DATE_MODIFICATION": [
+            "41457,6620138889"
+          ],
+          "NOM": [
+            "1ER CYCLE"
+          ],
+          "ALIAS": [
+            "1ER CYCLE"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "3000261"
+          ],
+          "DATE_MODIFICATION": [
+            "41457,6620138889"
+          ],
+          "NOM": [
+            "MAUPERTUIS"
+          ],
+          "ALIAS": [
+            "MAUPERTUIS"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ],
+          "COULEUR": [
+            "16777215"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ]

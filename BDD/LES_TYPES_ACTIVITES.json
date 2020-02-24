@@ -1,0 +1,238 @@
+[
+    {
+      "UN_TYPE_ACTIVITE": [
+        {
+          "CODE": [
+            "1"
+          ],
+          "NOM": [
+            "Cours"
+          ],
+          "ALIAS": [
+            "CM"
+          ],
+          "IDENTIFIANT": [
+            "1"
+          ],
+          "DATE_MODIFICATION": [
+            "41304,6911342593"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "COULEUR": [
+            "11448063"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "2"
+          ],
+          "NOM": [
+            "TD"
+          ],
+          "ALIAS": [
+            "TD"
+          ],
+          "IDENTIFIANT": [
+            "2"
+          ],
+          "DATE_MODIFICATION": [
+            "41304,6910300926"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "COULEUR": [
+            "12902911"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "3"
+          ],
+          "NOM": [
+            "TP"
+          ],
+          "ALIAS": [
+            "TP"
+          ],
+          "IDENTIFIANT": [
+            "3"
+          ],
+          "DATE_MODIFICATION": [
+            "41018,9490277778"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "COULEUR": [
+            "8454016"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "4"
+          ],
+          "NOM": [
+            "Projet"
+          ],
+          "ALIAS": [
+            "PRO"
+          ],
+          "IDENTIFIANT": [
+            "4"
+          ],
+          "DATE_MODIFICATION": [
+            "41408,4536458333"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "COULEUR": [
+            "42496"
+          ],
+          "COULEUR_POLICE": [
+            "16777215"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "6"
+          ],
+          "NOM": [
+            "Stage"
+          ],
+          "ALIAS": [
+            "STA"
+          ],
+          "IDENTIFIANT": [
+            "6"
+          ],
+          "DATE_MODIFICATION": [
+            "41018,9490277778"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "COULEUR": [
+            "8454143"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "9"
+          ],
+          "NOM": [
+            "DS"
+          ],
+          "ALIAS": [
+            "DS"
+          ],
+          "IDENTIFIANT": [
+            "9"
+          ],
+          "DATE_MODIFICATION": [
+            "41396,4548726852"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "COULEUR": [
+            "255"
+          ],
+          "COULEUR_POLICE": [
+            "16777215"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "23"
+          ],
+          "NOM": [
+            "Jury"
+          ],
+          "ALIAS": [
+            "JURY"
+          ],
+          "IDENTIFIANT": [
+            "8"
+          ],
+          "DATE_MODIFICATION": [
+            "41408,4587152778"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "COULEUR": [
+            "15057060"
+          ],
+          "COULEUR_POLICE": [
+            "0"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ]
+        },
+        {
+          "CODE": [
+            "46"
+          ],
+          "NOM": [
+            "Examen"
+          ],
+          "ALIAS": [
+            "Examen"
+          ],
+          "IDENTIFIANT": [
+            "46"
+          ],
+          "DATE_MODIFICATION": [
+            "41408,4641435185"
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "COULEUR": [
+            "4210816"
+          ],
+          "COULEUR_POLICE": [
+            "16777215"
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ]
+        }
+      ]
+    }
+  ]

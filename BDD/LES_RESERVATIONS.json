@@ -1,0 +1,2734 @@
+[
+      {
+        "UNE_RESERVATION": [
+          {
+            "CODE": [
+              "16108602"
+            ],
+            "DATE_MODIFICATION": [
+              "41526,7485069444"
+            ],
+            "DATE": [
+              "2013-9-9"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "COMMENTAIRE": [
+              "B10"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988342"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108605"
+            ],
+            "DATE_MODIFICATION": [
+              "41541,9345949074"
+            ],
+            "DATE": [
+              "2013-9-24"
+            ],
+            "HEURE": [
+              "830"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B55 GNTIQUE 2 _CM_L3 (SEANCE ANNULEE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "CODE_RESSOURCE": [
+                      "11235337"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630645"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824230"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101252"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108607"
+            ],
+            "DATE_MODIFICATION": [
+              "41543,4356712963"
+            ],
+            "DATE": [
+              "2013-9-18"
+            ],
+            "HEURE": [
+              "1015"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B55 GNTIQUE 2 _CM_L3 (SEANCE ANNULEE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "CODE_RESSOURCE": [
+                      "11235337"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630645"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824230"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101252"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108608"
+            ],
+            "DATE_MODIFICATION": [
+              "41543,4408217593"
+            ],
+            "DATE": [
+              "2013-9-24"
+            ],
+            "HEURE": [
+              "1445"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B55 GNTIQUE 2  _TD_L3_GR1 (SEANCE ANNULEE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630647"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824274"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101629"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108609"
+            ],
+            "DATE_MODIFICATION": [
+              "41543,4408217593"
+            ],
+            "DATE": [
+              "2013-9-24"
+            ],
+            "HEURE": [
+              "1630"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B55 GNTIQUE 2  _TD_L3_GR3 (SEANCE ANNULEE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630765"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824249"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101737"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108610"
+            ],
+            "DATE_MODIFICATION": [
+              "41543,4408217593"
+            ],
+            "DATE": [
+              "2013-9-26"
+            ],
+            "HEURE": [
+              "830"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B55 GNTIQUE 2  _TD_L3_GR2 (SEANCE ANNULEE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630647"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824280"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824281"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101683"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108611"
+            ],
+            "DATE_MODIFICATION": [
+              "41549,7042013889"
+            ],
+            "DATE": [
+              "2013-9-18"
+            ],
+            "HEURE": [
+              "1300"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_PPP_L2 _TD_L2_GR3 (SEANCE ANNULEE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630749"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101062"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108612"
+            ],
+            "DATE_MODIFICATION": [
+              "41549,716712963"
+            ],
+            "DATE": [
+              "2013-11-8"
+            ],
+            "HEURE": [
+              "1400"
+            ],
+            "DUREE": [
+              "400"
+            ],
+            "COMMENTAIRE": [
+              "_CB31 CHIMIE ORGANIQUE 2 _TP2GR3_L2_GR3"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824290"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101026"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108613"
+            ],
+            "DATE_MODIFICATION": [
+              "41549,718599537"
+            ],
+            "DATE": [
+              "2013-10-11"
+            ],
+            "HEURE": [
+              "1400"
+            ],
+            "DUREE": [
+              "400"
+            ],
+            "COMMENTAIRE": [
+              "_CB31 CHIMIE ORGANIQUE 2 _TP1GR3_L2_GR3 (TP ANNULE SEMAINE 40 41 42 43)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824290"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101023"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108614"
+            ],
+            "DATE_MODIFICATION": [
+              "41549,7204976852"
+            ],
+            "DATE": [
+              "2013-10-4"
+            ],
+            "HEURE": [
+              "1400"
+            ],
+            "DUREE": [
+              "400"
+            ],
+            "COMMENTAIRE": [
+              "_CB31 CHIMIE ORGANIQUE 2 _TP1GR1_L2_GR1 (TP SEANCE ANNULEE S 40 41 42 43)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101021"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108615"
+            ],
+            "DATE_MODIFICATION": [
+              "41549,720787037"
+            ],
+            "DATE": [
+              "2013-10-25"
+            ],
+            "HEURE": [
+              "1400"
+            ],
+            "DUREE": [
+              "400"
+            ],
+            "COMMENTAIRE": [
+              "_CB31 CHIMIE ORGANIQUE 2 _TP2GR1_L2_GR1 (SEANCE TP ANNULEE S 40 41 42 43)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101024"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108618"
+            ],
+            "DATE_MODIFICATION": [
+              "41550,6704050926"
+            ],
+            "DATE": [
+              "2013-10-7"
+            ],
+            "HEURE": [
+              "1630"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_PPP_L2 _TD_L2_GR2 (seance annulee)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630701"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101061"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108619"
+            ],
+            "DATE_MODIFICATION": [
+              "41550,6709722222"
+            ],
+            "DATE": [
+              "2013-10-10"
+            ],
+            "HEURE": [
+              "1200"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_PPP_L2 _TD_L2_GR1 (SEANCE ANNULEE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630738"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101060"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108620"
+            ],
+            "DATE_MODIFICATION": [
+              "41557,4193171296"
+            ],
+            "DATE": [
+              "2013-10-25"
+            ],
+            "HEURE": [
+              "1400"
+            ],
+            "DUREE": [
+              "400"
+            ],
+            "COMMENTAIRE": [
+              "_IB31 INFORMATIQUE 3 OPTION _TP GR2_L2_GR2 (SEANCE TP  ANNULEE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101015"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108621"
+            ],
+            "DATE_MODIFICATION": [
+              "41557,6819791667"
+            ],
+            "DATE": [
+              "2013-9-20"
+            ],
+            "HEURE": [
+              "1330"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_IB31 INFORMATIQUE 3 OPTION (PROJET BIOINFORMATIQUE)_CM_L2"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630697"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824290"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101010"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108622"
+            ],
+            "DATE_MODIFICATION": [
+              "41557,65875"
+            ],
+            "DATE": [
+              "2013-9-20"
+            ],
+            "HEURE": [
+              "1530"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_IB31 INFORMATIQUE 3 OPTION (PROJET BIOINFORMATIQUE)_CM_L2"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630697"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824290"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101010"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108624"
+            ],
+            "DATE_MODIFICATION": [
+              "41563,7387384259"
+            ],
+            "DATE": [
+              "2013-10-18"
+            ],
+            "HEURE": [
+              "1400"
+            ],
+            "DUREE": [
+              "400"
+            ],
+            "COMMENTAIRE": [
+              "_CB31 CHIMIE ORGANIQUE 2 _TP1GR2_L2_GR2 (LES SEANCES TP CB 31 SONT REPOUSSES)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101022"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108625"
+            ],
+            "DATE_MODIFICATION": [
+              "41584,7045949074"
+            ],
+            "DATE": [
+              "2013-11-13"
+            ],
+            "HEURE": [
+              "1445"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B31 BIOLOGIE CELLULAIRE 2 _TD_L2_GR3 (annule et reporte au jeudi 19 decembre p5)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630690"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16100974"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108626"
+            ],
+            "DATE_MODIFICATION": [
+              "41618,482025463"
+            ],
+            "DATE": [
+              "2013-12-18"
+            ],
+            "HEURE": [
+              "1630"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B31 BIOLOGIE CELLULAIRE 2 _TD_L2_GR3"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630690"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16100974"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108627"
+            ],
+            "DATE_MODIFICATION": [
+              "41605,6653009259"
+            ],
+            "DATE": [
+              "2013-11-20"
+            ],
+            "HEURE": [
+              "1200"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_MB31 PROBABILITS CONTINUES ET STATISTIQUES _TD_L2_GR1"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630709"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101057"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108628"
+            ],
+            "DATE_MODIFICATION": [
+              "41618,5025694444"
+            ],
+            "DATE": [
+              "2013-12-12"
+            ],
+            "HEURE": [
+              "1015"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B31 BIOLOGIE CELLULAIRE 2 _TD_L2_GR1"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630777"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988361"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16100972"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108629"
+            ],
+            "DATE_MODIFICATION": [
+              "41617,3775578704"
+            ],
+            "DATE": [
+              "2013-12-9"
+            ],
+            "HEURE": [
+              "1445"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B31 BIOLOGIE CELLULAIRE 2 _TD_L2_GR2"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630701"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16100973"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108663"
+            ],
+            "DATE_MODIFICATION": [
+              "41666,7574652778"
+            ],
+            "DATE": [
+              "2014-2-6"
+            ],
+            "HEURE": [
+              "1415"
+            ],
+            "DUREE": [
+              "400"
+            ],
+            "COMMENTAIRE": [
+              "_CB41 CHIMIE ORGANIQUE 3 OPTION _TP1GR3_L2_GR3"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101208"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108664"
+            ],
+            "DATE_MODIFICATION": [
+              "41666,7575231481"
+            ],
+            "DATE": [
+              "2014-3-7"
+            ],
+            "HEURE": [
+              "1400"
+            ],
+            "DUREE": [
+              "400"
+            ],
+            "COMMENTAIRE": [
+              "_CB41 CHIMIE ORGANIQUE 3 OPTION _TP2GR3_L2_GR3"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101211"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108665"
+            ],
+            "DATE_MODIFICATION": [
+              "41666,7576273148"
+            ],
+            "DATE": [
+              "2014-3-28"
+            ],
+            "HEURE": [
+              "1400"
+            ],
+            "DUREE": [
+              "400"
+            ],
+            "COMMENTAIRE": [
+              "_CB41 CHIMIE ORGANIQUE 3 OPTION _TP3GR3_L2_GR3"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101214"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108669"
+            ],
+            "DATE_MODIFICATION": [
+              "41668,4528703704"
+            ],
+            "DATE": [
+              "2014-2-5"
+            ],
+            "HEURE": [
+              "1015"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B43 PHYSIOLOGIE ANIMALE  BCP_CM_L2 (CM ANNULE ET REPORTE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630715"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824375"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101107"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108670"
+            ],
+            "DATE_MODIFICATION": [
+              "41668,4531597222"
+            ],
+            "DATE": [
+              "2014-2-5"
+            ],
+            "HEURE": [
+              "1200"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B43 PHYSIOLOGIE ANIMALE BCP _TD_L2_GR1 (TD ANNULE ET REPORTE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630709"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988357"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101108"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108671"
+            ],
+            "DATE_MODIFICATION": [
+              "41677,4734143519"
+            ],
+            "DATE": [
+              "2014-4-9"
+            ],
+            "HEURE": [
+              "1015"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B43 PHYSIOLOGIE ANIMALE  BCP_CM_L2 (ANNULE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630715"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824375"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101107"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108675"
+            ],
+            "DATE_MODIFICATION": [
+              "41681,5827662037"
+            ],
+            "DATE": [
+              "2014-3-21"
+            ],
+            "HEURE": [
+              "1630"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B43 PHYSIOLOGIE ANIMALE BCP _TDREVEXAM_L2_GR1"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16102601"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108676"
+            ],
+            "DATE_MODIFICATION": [
+              "41682,722037037"
+            ],
+            "DATE": [
+              "2014-2-4"
+            ],
+            "HEURE": [
+              "1015"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B44 PHYSIOLOGIE VGTALE BCP _TD_L2_GR1"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630707"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101118"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108677"
+            ],
+            "DATE_MODIFICATION": [
+              "41682,7223032407"
+            ],
+            "DATE": [
+              "2014-1-28"
+            ],
+            "HEURE": [
+              "1015"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B44 PHYSIOLOGIE VGTALE BCP _TD_L2_GR1"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630707"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101118"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108678"
+            ],
+            "DATE_MODIFICATION": [
+              "41682,7228356482"
+            ],
+            "DATE": [
+              "2014-2-6"
+            ],
+            "HEURE": [
+              "1200"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B43 PHYSIOLOGIE ANIMALE BCP _TD_L2_GR23"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630707"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824375"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988357"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101109"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108679"
+            ],
+            "DATE_MODIFICATION": [
+              "41682,7235300926"
+            ],
+            "DATE": [
+              "2014-1-29"
+            ],
+            "HEURE": [
+              "1015"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B43 PHYSIOLOGIE ANIMALE  BCP_CM_L2"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630715"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824375"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101107"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108680"
+            ],
+            "DATE_MODIFICATION": [
+              "41682,7266319444"
+            ],
+            "DATE": [
+              "2014-4-9"
+            ],
+            "HEURE": [
+              "1200"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B43 PHYSIOLOGIE ANIMALE BCP _TD_L2_GR1 (ANNULE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630709"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824258"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988357"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101108"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108682"
+            ],
+            "DATE_MODIFICATION": [
+              "41684,6466666667"
+            ],
+            "DATE": [
+              "2014-2-24"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "215"
+            ],
+            "COMMENTAIRE": [
+              "test"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988384"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108683"
+            ],
+            "DATE_MODIFICATION": [
+              "41684,6538657407"
+            ],
+            "DATE": [
+              "2014-2-25"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "1030"
+            ],
+            "COMMENTAIRE": [
+              "test2"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988384"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108692"
+            ],
+            "DATE_MODIFICATION": [
+              "41684,6969212963"
+            ],
+            "DATE": [
+              "2014-2-14"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108693"
+            ],
+            "DATE_MODIFICATION": [
+              "41684,6969907407"
+            ],
+            "DATE": [
+              "2014-2-14"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108694"
+            ],
+            "DATE_MODIFICATION": [
+              "41684,6977199074"
+            ],
+            "DATE": [
+              "2014-2-14"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108695"
+            ],
+            "DATE_MODIFICATION": [
+              "41684,6977777778"
+            ],
+            "DATE": [
+              "2014-2-14"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108696"
+            ],
+            "DATE_MODIFICATION": [
+              "41684,6990277778"
+            ],
+            "DATE": [
+              "2014-2-14"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108697"
+            ],
+            "DATE_MODIFICATION": [
+              "41684,6990625"
+            ],
+            "DATE": [
+              "2014-2-14"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108699"
+            ],
+            "DATE_MODIFICATION": [
+              "41684,700787037"
+            ],
+            "DATE": [
+              "2014-2-14"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108700"
+            ],
+            "DATE_MODIFICATION": [
+              "41684,7019212963"
+            ],
+            "DATE": [
+              "2014-2-14"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108709"
+            ],
+            "DATE_MODIFICATION": [
+              "41687,5198611111"
+            ],
+            "DATE": [
+              "2014-2-17"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108710"
+            ],
+            "DATE_MODIFICATION": [
+              "41687,5198842593"
+            ],
+            "DATE": [
+              "2014-2-17"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108711"
+            ],
+            "DATE_MODIFICATION": [
+              "41687,5218518519"
+            ],
+            "DATE": [
+              "2014-2-17"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108712"
+            ],
+            "DATE_MODIFICATION": [
+              "41687,521875"
+            ],
+            "DATE": [
+              "2014-2-17"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108713"
+            ],
+            "DATE_MODIFICATION": [
+              "41687,5219212963"
+            ],
+            "DATE": [
+              "2014-2-17"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108714"
+            ],
+            "DATE_MODIFICATION": [
+              "41687,522349537"
+            ],
+            "DATE": [
+              "2014-2-17"
+            ],
+            "HEURE": [
+              "800"
+            ],
+            "DUREE": [
+              "15"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988351"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108716"
+            ],
+            "DATE_MODIFICATION": [
+              "41710,6066782407"
+            ],
+            "DATE": [
+              "2014-3-17"
+            ],
+            "HEURE": [
+              "1015"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_IB41 INFORMATIQUE 4 OPTION _TD_L2_GR23 (ANNULE)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630747"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824378"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824380"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824383"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824384"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988324"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101174"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108721"
+            ],
+            "DATE_MODIFICATION": [
+              "41731,5076157407"
+            ],
+            "DATE": [
+              "2014-5-7"
+            ],
+            "HEURE": [
+              "1230"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B46 MICROBIOLOGIE _TDREVEXAM_L2_GR2 (TD REVISION)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824259"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16102615"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108722"
+            ],
+            "DATE_MODIFICATION": [
+              "41731,5078472222"
+            ],
+            "DATE": [
+              "2014-5-7"
+            ],
+            "HEURE": [
+              "1300"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_B46 MICROBIOLOGIE _TDREVEXAM_L2_GR3 (TD REVISION)"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16102616"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108723"
+            ],
+            "DATE_MODIFICATION": [
+              "41737,7001273148"
+            ],
+            "DATE": [
+              "2014-5-6"
+            ],
+            "HEURE": [
+              "930"
+            ],
+            "DUREE": [
+              "30"
+            ],
+            "COMMENTAIRE": [
+              "PrEsentation Master UEVE"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "999"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "PROF"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15988411"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108724"
+            ],
+            "DATE_MODIFICATION": [
+              "41754,5799305556"
+            ],
+            "DATE": [
+              "2014-4-25"
+            ],
+            "HEURE": [
+              "1300"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_C2I_L2 _TD_L2_GR3"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630752"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101077"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "CODE": [
+              "16108725"
+            ],
+            "DATE_MODIFICATION": [
+              "41754,5801157407"
+            ],
+            "DATE": [
+              "2014-4-25"
+            ],
+            "HEURE": [
+              "1445"
+            ],
+            "DUREE": [
+              "130"
+            ],
+            "COMMENTAIRE": [
+              "_C2I_L2 _TD_L2_GR3"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "RESSOURCES_OU_ENSEIGNEMENTS_CONCERNES": [
+              {
+                "UNE_RESSOURCE": [
+                  {
+                    "TYPE": [
+                      "SALLE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "11630752"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "GROUPE"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "15824260"
+                    ]
+                  },
+                  {
+                    "TYPE": [
+                      "ENSEIGNEMENT"
+                    ],
+                    "CODE_RESSOURCE": [
+                      "16101077"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]

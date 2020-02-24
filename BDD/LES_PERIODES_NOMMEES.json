@@ -1,0 +1,166 @@
+[
+    {
+      "UNE_PERIODE": [
+        {
+          "UN_NOM_PERIODE": [
+            "PERIODE"
+          ],
+          "DES_DATES_PERIODE": [
+            {
+              "UNE_PERIODE": [
+                {
+                  "DATE_DEBUT": [
+                    "2012-11-12"
+                  ],
+                  "DATE_FIN": [
+                    "2012-11-18"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UN_NOM_PERIODE": [
+            "Sem46"
+          ],
+          "DES_DATES_PERIODE": [
+            {
+              "UNE_PERIODE": [
+                {
+                  "DATE_DEBUT": [
+                    "2012-11-12"
+                  ],
+                  "DATE_FIN": [
+                    "2012-11-18"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UN_NOM_PERIODE": [
+            "SEM1_L3"
+          ],
+          "DES_DATES_PERIODE": [
+            {
+              "UNE_PERIODE": [
+                {
+                  "DATE_DEBUT": [
+                    "2013-9-9"
+                  ],
+                  "DATE_FIN": [
+                    "2014-1-26"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UN_NOM_PERIODE": [
+            "SEM1_L2"
+          ],
+          "DES_DATES_PERIODE": [
+            {
+              "UNE_PERIODE": [
+                {
+                  "DATE_DEBUT": [
+                    "2013-9-2"
+                  ],
+                  "DATE_FIN": [
+                    "2014-1-19"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UN_NOM_PERIODE": [
+            "SEM1_L1"
+          ],
+          "DES_DATES_PERIODE": [
+            {
+              "UNE_PERIODE": [
+                {
+                  "DATE_DEBUT": [
+                    "2013-9-2"
+                  ],
+                  "DATE_FIN": [
+                    "2014-1-26"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UN_NOM_PERIODE": [
+            "FEries_S2"
+          ],
+          "DES_DATES_PERIODE": [
+            {
+              "UNE_JOURNEE": [
+                {
+                  "DATE": [
+                    "2014-4-21"
+                  ]
+                },
+                {
+                  "DATE": [
+                    "2014-5-1"
+                  ]
+                },
+                {
+                  "DATE": [
+                    "2014-5-8"
+                  ]
+                },
+                {
+                  "DATE": [
+                    "2014-5-29"
+                  ]
+                },
+                {
+                  "DATE": [
+                    "2014-6-9"
+                  ]
+                }
+              ],
+              "UNE_PERIODE": [
+                {
+                  "DATE_DEBUT": [
+                    "2014-7-14"
+                  ],
+                  "DATE_FIN": [
+                    "2014-7-14"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UN_NOM_PERIODE": [
+            "Semestre2"
+          ],
+          "DES_DATES_PERIODE": [
+            {
+              "UNE_PERIODE": [
+                {
+                  "DATE_DEBUT": [
+                    "2014-1-6"
+                  ],
+                  "DATE_FIN": [
+                    "2014-7-20"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]

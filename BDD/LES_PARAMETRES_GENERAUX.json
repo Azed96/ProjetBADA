@@ -1,0 +1,63 @@
+[
+    {
+      "NOM": [
+        "biologie"
+      ],
+      "HEURE_DEBUT": [
+        "800"
+      ],
+      "HEURE_FIN": [
+        "1815"
+      ],
+      "GRAIN_TEMPOREL": [
+        "15"
+      ],
+      "DATE_DEBUT": [
+        "2012-9-3"
+      ],
+      "DATE_FIN": [
+        "2014-9-7"
+      ],
+      "MATIERES_V2": [
+        "MATIERES_V2"
+      ],
+      "CALENDRIER": [
+        {
+          "LES_CONGES": [
+            {
+              "UNE_JOURNEE": [
+                {
+                  "DATE": [
+                    "2013-4-2"
+                  ]
+                },
+                {
+                  "DATE": [
+                    "2013-5-2"
+                  ]
+                }
+              ],
+              "UNE_PERIODE": [
+                {
+                  "DATE_DEBUT": [
+                    "2013-5-10"
+                  ],
+                  "DATE_FIN": [
+                    "2013-5-11"
+                  ]
+                },
+                {
+                  "DATE_DEBUT": [
+                    "2013-5-21"
+                  ],
+                  "DATE_FIN": [
+                    "2013-5-21"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]

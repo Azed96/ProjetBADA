@@ -1,0 +1,5462 @@
+[
+      {
+        "UNE_SALLE": [
+          {
+            "CODE": [
+              "11630644"
+            ],
+            "DATE_MODIFICATION": [
+              "41786,7133680556"
+            ],
+            "NOM": [
+              "IB119"
+            ],
+            "ALIAS": [
+              "SALLE 119"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "(salle informatique) Tableau Blanc  video-projecteur ecran electrique"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "25"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630645"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "IBGRANDAMPHI"
+            ],
+            "ALIAS": [
+              "GRANDAMPHI"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "Tableau vert Micro disponible a laccueil visio-conference video-projecteur ecran fixe et mecanique sono"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "240"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630646"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "IB117"
+            ],
+            "ALIAS": [
+              "SALLE 117"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "Tableau Blanc  video-projecteur ecran mecanique 25 places tables individuelles"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "25"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630647"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "IB123"
+            ],
+            "ALIAS": [
+              "SALLE 123"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "Tableau Blanc  video-projecteur ecran mecanique 25 places tables individuelles"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "25"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630648"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "IB125"
+            ],
+            "ALIAS": [
+              "SALLE 125"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "Tableau Blanc  video-projecteur ecran mecanique 32 places tables individuelles"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "32"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630649"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "IB124"
+            ],
+            "ALIAS": [
+              "SALLE 124"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "Tableau vert  video-projecteur ecran mecanique 25 places tables individuelles"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "25"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630650"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "SALLE COMMUNE"
+            ],
+            "ALIAS": [
+              "SALLE COMMUNE"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "25"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630656"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCY B210"
+            ],
+            "ALIAS": [
+              "PCY B210"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "25"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630659"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCY C210"
+            ],
+            "ALIAS": [
+              "PCY C210"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "25"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630660"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCY A329"
+            ],
+            "ALIAS": [
+              "PCY A329"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "25"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630688"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01E06"
+            ],
+            "ALIAS": [
+              "MAU01E06"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630689"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01E07"
+            ],
+            "ALIAS": [
+              "MAU01E07"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630690"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01N04"
+            ],
+            "ALIAS": [
+              "MAU01N04"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630691"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01N06"
+            ],
+            "ALIAS": [
+              "MAU01N06"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630692"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01N08"
+            ],
+            "ALIAS": [
+              "MAU01N08"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630693"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01N09"
+            ],
+            "ALIAS": [
+              "MAU01N09"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630694"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01N10"
+            ],
+            "ALIAS": [
+              "MAU01N10"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630695"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01N11"
+            ],
+            "ALIAS": [
+              "MAU01N11"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630696"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01N12"
+            ],
+            "ALIAS": [
+              "MAU01N12"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630697"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAUAMPHI 100"
+            ],
+            "ALIAS": [
+              "MAUAMPHI 100"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630698"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAUAMPHI 150"
+            ],
+            "ALIAS": [
+              "MAUAMPHI 150"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630699"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAUAMPHI 300"
+            ],
+            "ALIAS": [
+              "MAUAMPHI 300"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630700"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAUHE05"
+            ],
+            "ALIAS": [
+              "MAUHE06"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630701"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01N05"
+            ],
+            "ALIAS": [
+              "MAU01N06"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630702"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01E08"
+            ],
+            "ALIAS": [
+              "MAU01E08"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630703"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01E03"
+            ],
+            "ALIAS": [
+              "MAU01E03"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630704"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01E04"
+            ],
+            "ALIAS": [
+              "MAU01E04"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630705"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01E05"
+            ],
+            "ALIAS": [
+              "MAU01E05"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630706"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU SALLE POLYVALENTE"
+            ],
+            "ALIAS": [
+              "MAU SALLE POLYVALENT"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630707"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01E02"
+            ],
+            "ALIAS": [
+              "MAU01E03"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630708"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU HALL"
+            ],
+            "ALIAS": [
+              "MAU HALL"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630709"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01E11"
+            ],
+            "ALIAS": [
+              "MAU01E11"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630710"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01E13"
+            ],
+            "ALIAS": [
+              "MAU01E13"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630711"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "MAU01E15"
+            ],
+            "ALIAS": [
+              "MAU01E15"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630712"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA101"
+            ],
+            "ALIAS": [
+              "PCYA101"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630713"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA102"
+            ],
+            "ALIAS": [
+              "PCYA102"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630714"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA103"
+            ],
+            "ALIAS": [
+              "PCYA103"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630715"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA104"
+            ],
+            "ALIAS": [
+              "PCYA104"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630716"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA105"
+            ],
+            "ALIAS": [
+              "PCYA105"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630717"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA106"
+            ],
+            "ALIAS": [
+              "PCYA106"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630718"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA309"
+            ],
+            "ALIAS": [
+              "PCYA309"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630719"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA311"
+            ],
+            "ALIAS": [
+              "PCYA311"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630720"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA312"
+            ],
+            "ALIAS": [
+              "PCYA312"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630721"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA319"
+            ],
+            "ALIAS": [
+              "PCYA319"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630722"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA320"
+            ],
+            "ALIAS": [
+              "PCYA320"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630723"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA321"
+            ],
+            "ALIAS": [
+              "PCYA321"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630724"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA322"
+            ],
+            "ALIAS": [
+              "PCYA322"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630725"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA324"
+            ],
+            "ALIAS": [
+              "PCYA324"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630726"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA326"
+            ],
+            "ALIAS": [
+              "PCYA326"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630727"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA327"
+            ],
+            "ALIAS": [
+              "PCYA327"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630728"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA328"
+            ],
+            "ALIAS": [
+              "PCYA328"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630729"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA329"
+            ],
+            "ALIAS": [
+              "PCYA329"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630730"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYA330"
+            ],
+            "ALIAS": [
+              "PCYA330"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630731"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYAMPHI AUDIO"
+            ],
+            "ALIAS": [
+              "PCYAMPHI AUDIO"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630732"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB107"
+            ],
+            "ALIAS": [
+              "PCYB107"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630733"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB109"
+            ],
+            "ALIAS": [
+              "PCYB109"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630734"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB201"
+            ],
+            "ALIAS": [
+              "PCYB201"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630735"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB202"
+            ],
+            "ALIAS": [
+              "PCYB202"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630736"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB203"
+            ],
+            "ALIAS": [
+              "PCYB203"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630737"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB204"
+            ],
+            "ALIAS": [
+              "PCYB204"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630738"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB207"
+            ],
+            "ALIAS": [
+              "PCYB207"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630739"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB208"
+            ],
+            "ALIAS": [
+              "PCYB208"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630740"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB209"
+            ],
+            "ALIAS": [
+              "PCYB209"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630741"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB210"
+            ],
+            "ALIAS": [
+              "PCYB210"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630742"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYB6"
+            ],
+            "ALIAS": [
+              "PCYB6"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630743"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC1"
+            ],
+            "ALIAS": [
+              "PCYC1"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630744"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC2"
+            ],
+            "ALIAS": [
+              "PCYC2"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630745"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC201"
+            ],
+            "ALIAS": [
+              "PCYC201"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630746"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC203"
+            ],
+            "ALIAS": [
+              "PCYC203"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630747"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC207"
+            ],
+            "ALIAS": [
+              "PCYC207"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630748"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC208"
+            ],
+            "ALIAS": [
+              "PCYC208"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630749"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC209"
+            ],
+            "ALIAS": [
+              "PCYC209"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630750"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC210"
+            ],
+            "ALIAS": [
+              "PCYC210"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630751"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC211"
+            ],
+            "ALIAS": [
+              "PCYC211"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630752"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC217"
+            ],
+            "ALIAS": [
+              "PCYC217"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630753"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC218"
+            ],
+            "ALIAS": [
+              "PCYC218"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630754"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC301"
+            ],
+            "ALIAS": [
+              "PCYC301"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630755"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCY HALL"
+            ],
+            "ALIAS": [
+              "PCY HALL"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630756"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC302"
+            ],
+            "ALIAS": [
+              "PCYC302"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630757"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC304"
+            ],
+            "ALIAS": [
+              "PCYC304"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630758"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC305"
+            ],
+            "ALIAS": [
+              "PCYC305"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630759"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC306"
+            ],
+            "ALIAS": [
+              "PCYC306"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630760"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC307"
+            ],
+            "ALIAS": [
+              "PCYC307"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630761"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYC311"
+            ],
+            "ALIAS": [
+              "PCYC311"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630762"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "PCYSALLE POLYVALENTE"
+            ],
+            "ALIAS": [
+              "PCYSALLE POLYVALENTE"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12615935"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000260"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630763"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "105"
+            ],
+            "ALIAS": [
+              "105"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural video proj"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "60"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630764"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "111"
+            ],
+            "ALIAS": [
+              "111"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "44"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630765"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "112"
+            ],
+            "ALIAS": [
+              "112"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630766"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "113"
+            ],
+            "ALIAS": [
+              "113"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "44"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630767"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "114 A"
+            ],
+            "ALIAS": [
+              "11  A"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural clavinova"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630768"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "114 B"
+            ],
+            "ALIAS": [
+              "115 B"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630770"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "202"
+            ],
+            "ALIAS": [
+              "202"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630771"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "203"
+            ],
+            "ALIAS": [
+              "203"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630772"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "205"
+            ],
+            "ALIAS": [
+              "205"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "salle dedie ecran mural"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "70"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630773"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "206"
+            ],
+            "ALIAS": [
+              "206"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630774"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "208"
+            ],
+            "ALIAS": [
+              "208"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "video projecteur"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630775"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "209"
+            ],
+            "ALIAS": [
+              "209"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural video projecteur"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "70"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630776"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "210 A"
+            ],
+            "ALIAS": [
+              "211 A"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630777"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "210 B"
+            ],
+            "ALIAS": [
+              "211 B"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural videoprojecteur"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630778"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "211"
+            ],
+            "ALIAS": [
+              "211"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural videoprojecteur"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "44"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630779"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "212"
+            ],
+            "ALIAS": [
+              "212"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "35"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630780"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "213"
+            ],
+            "ALIAS": [
+              "213"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "44"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630781"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "214 A"
+            ],
+            "ALIAS": [
+              "215 A"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630782"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "214 B"
+            ],
+            "ALIAS": [
+              "215 B"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural videoprojecteur"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630783"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "221"
+            ],
+            "ALIAS": [
+              "221"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630785"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "224"
+            ],
+            "ALIAS": [
+              "224"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630786"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "222"
+            ],
+            "ALIAS": [
+              "222"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "30"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630787"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "226"
+            ],
+            "ALIAS": [
+              "226"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "salle informatique"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "20"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630788"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "228"
+            ],
+            "ALIAS": [
+              "228"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "salle informatique video proj ecran mural"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "20"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630789"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "GRANDAMPHI"
+            ],
+            "ALIAS": [
+              "GRAND AMPHI"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "sono vhs/dvd video projecteur"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "332"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630790"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "101"
+            ],
+            "ALIAS": [
+              "101"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "20"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630791"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "122"
+            ],
+            "ALIAS": [
+              "122"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "ecran mural video proj"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "20"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630792"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "128"
+            ],
+            "ALIAS": [
+              "128"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "20"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630793"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "102"
+            ],
+            "ALIAS": [
+              "102"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "20"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16776960"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000259"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630794"
+            ],
+            "DATE_MODIFICATION": [
+              "41457,6386111111"
+            ],
+            "NOM": [
+              "IBPETITAMPHI"
+            ],
+            "ALIAS": [
+              "PETITAMPHI"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "Tableau vert Micro disponible a laccueil visio-conference video-projecteur ecran fixe et mecanique sono"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "120"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630796"
+            ],
+            "DATE_MODIFICATION": [
+              "41473,634224537"
+            ],
+            "NOM": [
+              "IB104"
+            ],
+            "ALIAS": [
+              "IB104"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "(salle informatique) Tableau Blanc  video-projecteur ecran electrique"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "16"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630799"
+            ],
+            "DATE_MODIFICATION": [
+              "41513,6654513889"
+            ],
+            "NOM": [
+              "IB15"
+            ],
+            "ALIAS": [
+              "SALLE 15"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630800"
+            ],
+            "DATE_MODIFICATION": [
+              "41513,6658217593"
+            ],
+            "NOM": [
+              "IB17"
+            ],
+            "ALIAS": [
+              "SALLE 17"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630801"
+            ],
+            "DATE_MODIFICATION": [
+              "41528,5796759259"
+            ],
+            "NOM": [
+              "SALLE FORMATION U669"
+            ],
+            "ALIAS": [
+              "SALLE FORMATION U669"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16777215"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "-1"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630802"
+            ],
+            "DATE_MODIFICATION": [
+              "41528,5798958333"
+            ],
+            "NOM": [
+              "SALLE SEMINAIRE CEPH"
+            ],
+            "ALIAS": [
+              "SALLE SEMINAIRE CEPH"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16777215"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "-1"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630803"
+            ],
+            "DATE_MODIFICATION": [
+              "41528,6082407407"
+            ],
+            "NOM": [
+              "BLAISE PASCAL (VILLEJUIF)"
+            ],
+            "ALIAS": [
+              "BLAISE PASCAL (VILLE"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "16777215"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "-1"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630804"
+            ],
+            "DATE_MODIFICATION": [
+              "41537,4566782407"
+            ],
+            "NOM": [
+              "MAU01 W13"
+            ],
+            "ALIAS": [
+              "MAU01W13"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "12451773"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630805"
+            ],
+            "DATE_MODIFICATION": [
+              "41621,6518865741"
+            ],
+            "NOM": [
+              "IB001"
+            ],
+            "ALIAS": [
+              "IB001"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              "(salle informatique) Tableau Blanc  video-projecteur ecran electrique"
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "65535"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000258"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          },
+          {
+            "CODE": [
+              "11630806"
+            ],
+            "DATE_MODIFICATION": [
+              "41655,4569328704"
+            ],
+            "NOM": [
+              "MAU01S16"
+            ],
+            "ALIAS": [
+              "MAU01S16"
+            ],
+            "IDENTIFIANT": [
+              ""
+            ],
+            "COMMENTAIRE": [
+              ""
+            ],
+            "COMPOSANTE": [
+              "2152"
+            ],
+            "CAPACITE": [
+              "0"
+            ],
+            "SURFACE": [
+              "0"
+            ],
+            "COULEUR": [
+              "14680031"
+            ],
+            "COULEUR_POLICE": [
+              "0"
+            ],
+            "CODE_PROPRIETAIRE": [
+              "2"
+            ],
+            "CODE_ZONE": [
+              "3000261"
+            ],
+            "TYPES_DE_LA_SALLE": [
+              ""
+            ]
+          }
+        ]
+      }
+    ]

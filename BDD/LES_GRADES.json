@@ -1,0 +1,1686 @@
+[
+    {
+      "UN_GRADE": [
+        {
+          "CODE": [
+            "690001"
+          ],
+          "DATE_MODIFICATION": [
+            "40489,504837963"
+          ],
+          "NOM": [
+            "ATER"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "9600"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0,666599989"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0,666599989"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "690002"
+          ],
+          "DATE_MODIFICATION": [
+            "40489,5049652778"
+          ],
+          "NOM": [
+            "MAITRE DE CONFERENCE"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "19200"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "690003"
+          ],
+          "DATE_MODIFICATION": [
+            "40489,5051967593"
+          ],
+          "NOM": [
+            "PRAG"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "38400"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "690004"
+          ],
+          "DATE_MODIFICATION": [
+            "41627,3976273148"
+          ],
+          "NOM": [
+            "VACATAIRE"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "0"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "19200"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0,666599989"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0,666599989"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "690005"
+          ],
+          "DATE_MODIFICATION": [
+            "40489,5055092593"
+          ],
+          "NOM": [
+            "PU"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "19200"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "690006"
+          ],
+          "DATE_MODIFICATION": [
+            "40489,5053125"
+          ],
+          "NOM": [
+            "PRCE"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "38400"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "5832099"
+          ],
+          "DATE_MODIFICATION": [
+            "40489,5054050926"
+          ],
+          "NOM": [
+            "PREN"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "38400"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "12434171"
+          ],
+          "DATE_MODIFICATION": [
+            "40489,5050925926"
+          ],
+          "NOM": [
+            "MONITEUR"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "6400"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "12434172"
+          ],
+          "DATE_MODIFICATION": [
+            "40566,7861342593"
+          ],
+          "NOM": [
+            "ADMINISTRATIF"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "0"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "12434173"
+          ],
+          "DATE_MODIFICATION": [
+            "40792,6546759259"
+          ],
+          "NOM": [
+            "LECTEUR"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "19200"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "12434174"
+          ],
+          "DATE_MODIFICATION": [
+            "40794,7313194444"
+          ],
+          "NOM": [
+            "PAST"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "19200"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "12434175"
+          ],
+          "DATE_MODIFICATION": [
+            "40795,5451736111"
+          ],
+          "NOM": [
+            "CONTRACTUEL"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "38400"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "12434176"
+          ],
+          "DATE_MODIFICATION": [
+            "41473,387037037"
+          ],
+          "NOM": [
+            "SUP"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "19200"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "0"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1,5"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "1"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "0"
+          ]
+        },
+        {
+          "CODE": [
+            "12434177"
+          ],
+          "DATE_MODIFICATION": [
+            "41627,3977662037"
+          ],
+          "NOM": [
+            "CONV"
+          ],
+          "IDENTIFIANT": [
+            ""
+          ],
+          "COMMENTAIRE": [
+            ""
+          ],
+          "HEURES_STATUTAIRES": [
+            "0"
+          ],
+          "HEURES_COMPLEMENTAIRES": [
+            "19200"
+          ],
+          "LES_PONDERATIONS": [
+            {
+              "UNE_PONDERATION": [
+                {
+                  "PONDERATION_TYPE": [
+                    "1"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1,5"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "2"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "3"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "4"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "6"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "1"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "9"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "23"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                },
+                {
+                  "PONDERATION_TYPE": [
+                    "46"
+                  ],
+                  "PONDERATION_STATUTAIRE": [
+                    "0"
+                  ],
+                  "PONDERATION_SUPPLEMENTAIRE": [
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ],
+          "CODE_PROPRIETAIRE": [
+            "2"
+          ]
+        }
+      ]
+    }
+  ]
