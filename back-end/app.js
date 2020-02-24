@@ -41,7 +41,44 @@ app.get('/seance/:code', function(req,res) {
     var groupe = db.collection('LES_SEANCES').find({
         "LES_RESSOURCES.UNE_RESSOURCE.CODE_RESSOURCE" : req.params.code
     }).toArray(function (err, data) {
-        res.send(data);
+
+        var groupe = db.collection('LES_ENSEIGNEMENTS').find({
+            "CODE" : "16101543"
+        }).toArray(function (err, result) {
+
+            var heure_string = data[0]["HEURE"][0];
+            var date_start = new Date(data[0]["DATE"][0]);
+
+            console.log("Lenght = " + heure_string.length);
+            if(heure_string.length > 3){
+                var heure_debut = heure_string.substring(0, 2);
+                var minutes_debut = heure_string.substring(2, 4);
+            }
+            else {
+                var heure_debut = heure_string.substring(0, 1);
+                var minutes_debut = heure_string.substring(1, 3);
+            }
+
+            console.log(heure_debut + "h "+minutes_debut);
+            date_start.setHours(heure_debut, minutes_debut);
+
+
+            console.log(date_start);
+
+            var reponse = {
+                Id: 5,
+                Subject: result[0]["NOM"][0],
+                StartTime: new Date(),
+                EndTime: new Date(),
+                IsAllDay: false,
+                Status: 'Completed',
+                Priority: 'High',
+                IsReadonly: true
+            }
+
+            console.log(reponse);
+            res.send(data[0]);
+        })
     });
 })
 
