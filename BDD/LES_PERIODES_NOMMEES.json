@@ -1,6 +1,4 @@
-[
-    {
-      "UNE_PERIODE": [
+
         {
           "UN_NOM_PERIODE": [
             "PERIODE"
@@ -19,7 +17,7 @@
               ]
             }
           ]
-        },
+        }
         {
           "UN_NOM_PERIODE": [
             "Sem46"
@@ -38,7 +36,7 @@
               ]
             }
           ]
-        },
+        }
         {
           "UN_NOM_PERIODE": [
             "SEM1_L3"
@@ -57,7 +55,7 @@
               ]
             }
           ]
-        },
+        }
         {
           "UN_NOM_PERIODE": [
             "SEM1_L2"
@@ -76,7 +74,7 @@
               ]
             }
           ]
-        },
+        }
         {
           "UN_NOM_PERIODE": [
             "SEM1_L1"
@@ -95,7 +93,7 @@
               ]
             }
           ]
-        },
+        }
         {
           "UN_NOM_PERIODE": [
             "FEries_S2"
@@ -141,7 +139,7 @@
               ]
             }
           ]
-        },
+        }
         {
           "UN_NOM_PERIODE": [
             "Semestre2"
@@ -161,6 +159,3 @@
             }
           ]
         }
-      ]
-    }
-  ]
