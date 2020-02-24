@@ -12,6 +12,7 @@ app.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
     next();
 });
+
 // Connexion to mongoDb
 mongoose.connect('mongodb://localhost:27017/BADA',
     { useNewUrlParser: true,
@@ -29,8 +30,7 @@ app.use((req, res, next) => {
     next();
 });
 
-
 app.listen(process.env.PORT || '3012', function () {
-    console.log('Serveur lancé sur le port 3012!')
+    console.log('Example app listening on port 3012 !')
   })
 module.exports = app;
