@@ -13,7 +13,7 @@ app.use((req, res, next) => {
     next();
 });
 // Connexion to mongoDb
-mongoose.connect('mongodb+srv://root:root@bada-fvexe.mongodb.net/test',
+mongoose.connect('mongodb://localhost:27017/BADA',
     { useNewUrlParser: true,
         useUnifiedTopology: true })
     .then(() => console.log('Connexion à MongoDB réussie !'))
@@ -31,6 +31,6 @@ app.use((req, res, next) => {
 
 
 app.listen(process.env.PORT || '3012', function () {
-    console.log('Example app listening on port '+port+'!')
+    console.log('Serveur lancé sur le port 3012!')
   })
 module.exports = app;
