@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"BADA.LES_RESERVATIONS"}],"uuid":"11e9b718821647dd925f6ab280196988"}

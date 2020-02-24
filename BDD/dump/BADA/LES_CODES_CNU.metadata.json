@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"BADA.LES_CODES_CNU"}],"uuid":"fc48d6883a1142b7849aed45cb565fa1"}

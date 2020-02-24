@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"BADA.SALLES"}],"uuid":"d189ab45207d45158b0fcc0ef2105172"}

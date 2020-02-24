@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"BADA.LES_PERIODES_NOMMEES"}],"uuid":"4ff9b4ad52724794b9120527f75cc4dc"}

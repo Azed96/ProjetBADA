@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"BADA.LES_ZONES_DE_SALLES"}],"uuid":"a8008114f010475991ea76a0b46afc23"}

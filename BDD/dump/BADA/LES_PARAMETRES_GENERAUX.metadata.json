@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"BADA.LES_PARAMETRES_GENERAUX"}],"uuid":"86bf41f8e20f47fe95b4f31cef05f09e"}

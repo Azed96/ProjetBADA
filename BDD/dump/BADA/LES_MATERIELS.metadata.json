@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"BADA.LES_MATERIELS"}],"uuid":"9d7e391ddce74d799498713b988f1ac6"}
