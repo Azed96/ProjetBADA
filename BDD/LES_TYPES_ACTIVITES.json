@@ -1,6 +1,4 @@
-[
-    {
-      "UN_TYPE_ACTIVITE": [
+
         {
           "CODE": [
             "1"
@@ -29,7 +27,7 @@
           "CODE_PROPRIETAIRE": [
             "0"
           ]
-        },
+        }
         {
           "CODE": [
             "2"
@@ -58,7 +56,7 @@
           "CODE_PROPRIETAIRE": [
             "0"
           ]
-        },
+        }
         {
           "CODE": [
             "3"
@@ -87,7 +85,7 @@
           "CODE_PROPRIETAIRE": [
             "0"
           ]
-        },
+        }
         {
           "CODE": [
             "4"
@@ -116,7 +114,7 @@
           "CODE_PROPRIETAIRE": [
             "0"
           ]
-        },
+        }
         {
           "CODE": [
             "6"
@@ -145,7 +143,7 @@
           "CODE_PROPRIETAIRE": [
             "0"
           ]
-        },
+        }
         {
           "CODE": [
             "9"
@@ -174,7 +172,7 @@
           "CODE_PROPRIETAIRE": [
             "0"
           ]
-        },
+        }
         {
           "CODE": [
             "23"
@@ -203,7 +201,7 @@
           "CODE_PROPRIETAIRE": [
             "2"
           ]
-        },
+        }
         {
           "CODE": [
             "46"
@@ -233,6 +231,3 @@
             "2"
           ]
         }
-      ]
-    }
-  ]
