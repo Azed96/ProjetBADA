@@ -41,7 +41,23 @@ app.get('/seance/:code', function(req,res) {
     var groupe = db.collection('LES_SEANCES').find({
         "LES_RESSOURCES.UNE_RESSOURCE.CODE_RESSOURCE" : req.params.code
     }).toArray(function (err, data) {
-        res.send(data);
+
+        var groupe = db.collection('LES_ENSEIGNEMENTS').find({
+            "CODE" : "16101543"
+        }).toArray(function (err, data) {
+            /*var reponse = {
+                Id: data[0].,
+                Subject: 'Meeting',
+                StartTime: new Date(2020, 1, 15, 10, 0),
+                EndTime: new Date(2020, 1, 15, 12, 30),
+                IsAllDay: false,
+                Status: 'Completed',
+                Priority: 'High',
+                IsReadonly: true
+            }*/
+
+            res.send(data[0]);
+        })
     });
 })
 
