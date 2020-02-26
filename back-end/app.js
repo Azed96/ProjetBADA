@@ -18,10 +18,14 @@ mongoose.connect('mongodb://localhost:27017/BADA',
         useUnifiedTopology: true })
     .then(() => console.log('Connexion à MongoDB réussie !'))
     .catch(() => console.log('Connexion à MongoDB échouée !'));
+var db = mongoose.connection;
+
+// Routes
+require('./routes/Groupes')(app,db);
 
 app.get('/', function(req,res) {
-    console.log('hello world !');
-    res.send("hello world !");
+    res.send('BADA API V1')
+    
 })
 
 app.use((req, res, next) => {
