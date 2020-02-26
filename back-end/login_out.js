@@ -22,7 +22,7 @@
                 }
             
                 console.log("Connected");
-                res.redirect('/seance/');// rajouter le code
+                //res.redirect('/seance/');// rajouter le code
 
                 res.json({
                     status: 1,
