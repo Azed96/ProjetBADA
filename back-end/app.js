@@ -23,12 +23,6 @@ mongoose.connect('mongodb://localhost:27017/BADA',
 
 let db = mongoose.connection;
 
-function printSchema(obj) {
-    for (var key in obj) {
-        print(indent, key, typeof obj[key]) ;
-    }
-};
-
 app.get('/', function(req,res) {
     var groupe = db.collection('LES_SEANCES').find({
         "LES_RESSOURCES.UNE_RESSOURCE.CODE_RESSOURCE" : "s"
@@ -42,14 +36,16 @@ app.get('/seance/:code', function(req,res) {
         "LES_RESSOURCES.UNE_RESSOURCE.CODE_RESSOURCE" : req.params.code
     }).toArray(function (err, data) {
 
+        data.forEach(element => console.log(element));
+
         var groupe = db.collection('LES_ENSEIGNEMENTS').find({
             "CODE" : "16101543"
         }).toArray(function (err, result) {
 
             var heure_string = data[0]["HEURE"][0];
             var date_start = new Date(data[0]["DATE"][0]);
+            var duree_string = data[0]["DUREE"][0];
 
-            console.log("Lenght = " + heure_string.length);
             if(heure_string.length > 3){
                 var heure_debut = heure_string.substring(0, 2);
                 var minutes_debut = heure_string.substring(2, 4);
@@ -59,17 +55,26 @@ app.get('/seance/:code', function(req,res) {
                 var minutes_debut = heure_string.substring(1, 3);
             }
 
-            console.log(heure_debut + "h "+minutes_debut);
             date_start.setHours(heure_debut, minutes_debut);
 
+            if(duree_string.length > 3){
+                var duree_heure = duree_string.substring(0, 2);
+                var duree_minutes = duree_string.substring(2, 4);
+            }
+            else {
+                var duree_heure = duree_string.substring(0, 1);
+                var duree_minutes = duree_string.substring(1, 3);
+            }
 
-            console.log(date_start);
+            var date_fin = new Date(date_start);
+            date_fin.setHours(date_start.getHours() + duree_heure);
+            date_fin.setMinutes(date_start.getMinutes() + duree_minutes);
 
             var reponse = {
                 Id: 5,
                 Subject: result[0]["NOM"][0],
-                StartTime: new Date(),
-                EndTime: new Date(),
+                StartTime: new Date(date_start),
+                EndTime: new Date(date_fin),
                 IsAllDay: false,
                 Status: 'Completed',
                 Priority: 'High',
@@ -77,7 +82,7 @@ app.get('/seance/:code', function(req,res) {
             }
 
             console.log(reponse);
-            res.send(data[0]);
+            res.send(reponse);
         })
     });
 })
