@@ -35,61 +35,59 @@ app.get('/', function(req,res) {
 })
 
 app.get('/seance/:code', function(req,res) {
-    var arrayFinal = [];
-    db.collection('LES_SEANCES').find({
+    var groupe = db.collection('LES_SEANCES').find({
         "LES_RESSOURCES.UNE_RESSOURCE.CODE_RESSOURCE" : req.params.code
-    }).toArray(function (err, payload) {
+    }).toArray(function (err, data) {
 
-        for await (const data of payload) {
-            db.collection('LES_ENSEIGNEMENTS').find({
-                "CODE" : data[0]["ENSEIGNEMENT"][0]
-            }).toArray(function (err, result) {
-    
-                var heure_string = data[0]["HEURE"][0];
-                var date_start = new Date(data[0]["DATE"][0]);
-                var duree_string = data[0]["DUREE"][0];
-    
-                if(heure_string.length > 3){
-                    var heure_debut = heure_string.substring(0, 2);
-                    var minutes_debut = heure_string.substring(2, 4);
-                }
-                else {
-                    var heure_debut = heure_string.substring(0, 1);
-                    var minutes_debut = heure_string.substring(1, 3);
-                }
-    
-                date_start.setHours(heure_debut, minutes_debut);
-    
-                if(duree_string.length > 3){
-                    var duree_heure = duree_string.substring(0, 2);
-                    var duree_minutes = duree_string.substring(2, 4);
-                }
-                else {
-                    var duree_heure = duree_string.substring(0, 1);
-                    var duree_minutes = duree_string.substring(1, 3);
-                }
-    
-                var date_fin = new Date(date_start);
-                date_fin.setHours(date_start.getHours() + duree_heure);
-                date_fin.setMinutes(date_start.getMinutes() + duree_minutes);
-    
-                var reponse = {
-                    Id: 5,
-                    Subject: result[0]["NOM"][0],
-                    StartTime: new Date(date_start),
-                    EndTime: new Date(date_fin),
-                    IsAllDay: false,
-                    Status: 'Completed',
-                    Priority: 'High',
-                    IsReadonly: true
-                }
-            });
-        }
-        arrayFinal.push(data);
-        console.log(data);
+        data.forEach(element => console.log(element));
+
+        var groupe = db.collection('LES_ENSEIGNEMENTS').find({
+            "CODE" : "16101543"
+        }).toArray(function (err, result) {
+
+            var heure_string = data[0]["HEURE"][0];
+            var date_start = new Date(data[0]["DATE"][0]);
+            var duree_string = data[0]["DUREE"][0];
+
+            if(heure_string.length > 3){
+                var heure_debut = heure_string.substring(0, 2);
+                var minutes_debut = heure_string.substring(2, 4);
+            }
+            else {
+                var heure_debut = heure_string.substring(0, 1);
+                var minutes_debut = heure_string.substring(1, 3);
+            }
+
+            date_start.setHours(heure_debut, minutes_debut);
+
+            if(duree_string.length > 3){
+                var duree_heure = duree_string.substring(0, 2);
+                var duree_minutes = duree_string.substring(2, 4);
+            }
+            else {
+                var duree_heure = duree_string.substring(0, 1);
+                var duree_minutes = duree_string.substring(1, 3);
+            }
+
+            var date_fin = new Date(date_start);
+            date_fin.setHours(date_start.getHours() + duree_heure);
+            date_fin.setMinutes(date_start.getMinutes() + duree_minutes);
+
+            var reponse = {
+                Id: 5,
+                Subject: result[0]["NOM"][0],
+                StartTime: new Date(date_start),
+                EndTime: new Date(date_fin),
+                IsAllDay: false,
+                Status: 'Completed',
+                Priority: 'High',
+                IsReadonly: true
+            }
+
+            console.log(reponse);
+            res.send(reponse);
+        })
     });
-    console.log(arrayFinal);
-    res.send(arrayFinal);
 })
 
 app.use((req, res, next) => {
