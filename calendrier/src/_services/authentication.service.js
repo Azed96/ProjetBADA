@@ -12,26 +12,29 @@ export const authenticationService = {
     get currentUserValue () { return currentUserSubject.value }
 };
 
-function login(username, password) {
+function login(codeEtudiant) {
     const requestOptions = {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ username, password })
+        body: JSON.stringify({ codeEtudiant })
     };
 
-    return fetch(`http://localhost:3012/users/authenticate`, requestOptions)
+    return fetch(`http://localhost:3012/seance/`+codeEtudiant, requestOptions)
         .then(handleResponse)
-        .then(user => {
+        .then(seances => {
             // store user details and jwt token in local storage to keep user logged in between page refreshes
-            localStorage.setItem('currentUser', JSON.stringify(user));
-            currentUserSubject.next(user);
+            localStorage.setItem('seances', JSON.stringify(seances));
+            localStorage.setItem('currentUser', JSON.stringify(codeEtudiant));
 
-            return user;
+            currentUserSubject.next(seances);
+
+            return seances;
         });
 }
 
 function logout() {
     // remove user from local storage to log user out
     localStorage.removeItem('currentUser');
+    localStorage.removeItem('seances');
     currentUserSubject.next(null);
 }

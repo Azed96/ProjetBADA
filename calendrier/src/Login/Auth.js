@@ -16,24 +16,27 @@ class Login extends React.Component {
 
     render() {
         return (
+            <div className="jumbotron h-100">
+            <div className="container">
+                <div className="row">
+                    <div className="col-md-6 offset-md-3">
+
             <div>
+
                 <div className="alert alert-info">
-                    Username: test<br />
-                    Password: test
+                    Bienvenue dans l'EDT UEVE biologie !
                 </div>
                 <h2>Login</h2>
                 <Formik
                     initialValues={{
-                        username: '',
-                        password: ''
+                        codeEtudiant: '',
                     }}
                     validationSchema={Yup.object().shape({
-                        username: Yup.string().required('Username is required'),
-                        password: Yup.string().required('Password is required')
+                        codeEtudiant: Yup.string().required('Veuillez renseignez un code étudiant valide !')
                     })}
-                    onSubmit={({ username, password }, { setStatus, setSubmitting }) => {
+                    onSubmit={({ codeEtudiant }, { setStatus, setSubmitting }) => {
                         setStatus();
-                        authenticationService.login(username, password)
+                        authenticationService.login(codeEtudiant)
                             .then(
                                 user => {
                                     const { from } = this.props.location.state || { from: { pathname: "/" } };
@@ -48,14 +51,9 @@ class Login extends React.Component {
                     render={({ errors, status, touched, isSubmitting }) => (
                         <Form>
                             <div className="form-group">
-                                <label htmlFor="username">Username</label>
-                                <Field name="username" type="text" className={'form-control' + (errors.username && touched.username ? ' is-invalid' : '')} />
-                                <ErrorMessage name="username" component="div" className="invalid-feedback" />
-                            </div>
-                            <div className="form-group">
-                                <label htmlFor="password">Password</label>
-                                <Field name="password" type="password" className={'form-control' + (errors.password && touched.password ? ' is-invalid' : '')} />
-                                <ErrorMessage name="password" component="div" className="invalid-feedback" />
+                                <label htmlFor="codeEtudiant">Code Etudiant</label>
+                                <Field name="codeEtudiant" type="text" className={'form-control' + (errors.codeEtudiant && touched.codeEtudiant ? ' is-invalid' : '')} />
+                                <ErrorMessage name="codeEtudiant" component="div" className="invalid-feedback" />
                             </div>
                             <div className="form-group">
                                 <button type="submit" className="btn btn-primary" disabled={isSubmitting}>Login</button>
@@ -70,6 +68,10 @@ class Login extends React.Component {
                     )}
                 />
             </div>
+            </div>
+                </div>
+            </div>
+        </div>
         )
     }
 }

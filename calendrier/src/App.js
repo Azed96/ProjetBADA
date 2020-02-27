@@ -29,24 +29,8 @@ class App extends React.Component {
         const { currentUser } = this.state;
         return (
             <Router history={history}>
-                    {currentUser &&
-                        <nav className="navbar navbar-expand navbar-dark bg-dark">
-                            <div className="navbar-nav">
-                                <Link to="/" className="nav-item nav-link">Home</Link>
-                                <a onClick={this.logout} className="nav-item nav-link">Logout</a>
-                            </div>
-                        </nav>
-                    }
-                    <div className="jumbotron h-100">
-                        <div className="container">
-                            <div className="row">
-                                <div className="col-md-6 offset-md-3">
-                                    <PrivateRoute exact path="/" component={Home} />
-                                    <Route path="/login" component={Login} />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <PrivateRoute exact path="/" component={Home} />
+                <Route path="/login" component={Login} />
             </Router>
         );
     }
