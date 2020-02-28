@@ -33,7 +33,17 @@ class Home extends React.Component {
   }
 
   render() {
-    return <ScheduleComponent height='100%' isReadOnly={true} selectedDate={new Date(2020, 1, 15)} eventSettings={{ dataSource: this.data,
+    return (
+      <div>
+        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+          <a class="navbar-brand" href="#">
+          <img src={require('./Universite_Evry.png')} width="200" height="80" />
+          </a>
+          <div className="ml-auto navbar-nav">
+            <a onClick={this.logout} id="logout-button" className="nav-item nav-link"><button class="btn btn-outline-danger" type="button">Se déconnecter</button></a>
+          </div>
+      </nav>
+  <ScheduleComponent height='100%' isReadOnly={true} selectedDate={new Date(2020, 1, 15)} eventSettings={{ dataSource: this.data,
       fields: {
         id: 'Id',
         subject: { name: 'Subject' },
@@ -43,14 +53,10 @@ class Home extends React.Component {
         isReadOnly: {name: 'IsReadOnly'}
       }
     }}>
-      <Inject services={[Day, Week, WorkWeek, Month, Agenda]}/>
-      <nav className="navbar navbar-expand navbar-dark bg-dark">
-                            <div className="navbar-nav">
-                                <Link to="/" className="nav-item nav-link">Home</Link>
-                                <a onClick={this.logout} id="logout-button" className="nav-item nav-link">Logout</a>
-                            </div>
-                        </nav>
-    </ScheduleComponent>;
+
+    <Inject services={[Day, Week, WorkWeek, Month, Agenda]}/>
+    </ScheduleComponent>
+    </div>)
   }
 }
 
