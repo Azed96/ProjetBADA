@@ -4,6 +4,8 @@ import * as Yup from 'yup';
 
 import { authenticationService } from '../_services/authentication.service';
 
+import  getSeances  from '../_services/seances.service';
+
 class Login extends React.Component {
     constructor(props) {
         super(props);
@@ -38,7 +40,8 @@ class Login extends React.Component {
                         setStatus();
                         authenticationService.login(codeEtudiant)
                             .then(
-                                user => {
+                                groupes => {
+                                    getSeances(groupes);
                                     const { from } = this.props.location.state || { from: { pathname: "/" } };
                                     this.props.history.push(from);
                                 },

@@ -5,27 +5,44 @@ import { ScheduleComponent, Day, Week, WorkWeek, Month, Agenda, Inject} from '@s
 import { Router, Route, Link } from 'react-router-dom';
 import { history } from '../_helpers/history';
 import { authenticationService } from '../_services/authentication.service';
+import  getSeances  from '../_services/seances.service';
 
 class Home extends React.Component {
 
   constructor() {
     super(...arguments);
-    this.data = [{
-      Id: 2,
-      Subject: 'Meeting',
-      StartTime: new Date(2020, 1, 15, 10, 0),
-      EndTime: new Date(2020, 1, 15, 12, 30),
-      IsAllDay: false,
-      Status: 'Completed',
-      Priority: 'High',
-      IsReadonly: true
-    }];
+
     this.state = {
-      currentUser: null
+      currentUser: null,
+      seances: null,
+      data : [{
+        Id: 2,
+        Subject: 'Meeting',
+        StartTime: new Date(2020, 1, 15, 10, 0),
+        EndTime: new Date(2020, 1, 15, 12, 30),
+        IsAllDay: false,
+        Status: 'Completed',
+        Priority: 'High',
+        IsReadonly: true
+      }]
     }
+  }
+  getSeancesLocalStaorage = ()=> {
+    var retrievedData = JSON.parse(localStorage.getItem("seances"));
+    var oldData = this.state.data;
+    retrievedData.forEach(element => {
+      element["StartTime"] = new Date(element["StartTime"]);
+      element["EndTime"] = new Date(element["EndTime"]);
+      oldData.push(element)
+    });
+    this.setState({
+      data: oldData
+    })
   }
   componentDidMount() {
     authenticationService.currentUser.subscribe(x => this.setState({ currentUser: x }));
+    authenticationService.groupes.subscribe(x => this.setState({ data: x }));
+    this.getSeancesLocalStaorage();
   }
   logout() {
       authenticationService.logout();
@@ -43,7 +60,7 @@ class Home extends React.Component {
             <a onClick={this.logout} id="logout-button" className="nav-item nav-link"><button class="btn btn-outline-danger" type="button">Se déconnecter</button></a>
           </div>
       </nav>
-  <ScheduleComponent height='100%' isReadOnly={true} selectedDate={new Date(2020, 1, 15)} eventSettings={{ dataSource: this.data,
+  <ScheduleComponent height='100%' isReadOnly={true} selectedDate={new Date(2020, 1, 15)} eventSettings={{ dataSource: this.state.data,
       fields: {
         id: 'Id',
         subject: { name: 'Subject' },

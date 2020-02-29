@@ -34,6 +34,20 @@ app.get('/', function(req,res) {
     });
 })
 
+app.get('/login/:code', function(req,res) {
+    var groupes = [];
+    db.collection('GROUPES').find({
+        "LES_ETUDIANTS_DU_GROUPE.UN_CODE_ETUDIANT": req.params.code
+    }).toArray((err, data)=>{
+        data.forEach(element => {
+            groupes.push(element.CODE)
+            console.log(element.CODE);
+            if(groupes.length==data.length) res.send(groupes);
+        });
+        
+    })
+})
+
 app.get('/seance/:code', function(req,res) {
 
     var arrayFinal = [];
