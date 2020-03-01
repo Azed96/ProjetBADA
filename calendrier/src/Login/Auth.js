@@ -1,9 +1,8 @@
 import React from 'react';
 import { Formik, Field, Form, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
-
 import { authenticationService } from '../_services/authentication.service';
-
+import "./Auth.css"
 import  getSeances  from '../_services/seances.service';
 
 class Login extends React.Component {
@@ -24,11 +23,14 @@ class Login extends React.Component {
                     <div className="col-md-6 offset-md-3">
 
             <div>
-
-                <div className="alert alert-info">
-                    Bienvenue dans l'EDT UEVE biologie !
+                <div className="text-center">
+                    <img id={"logo_main"} src={require('./logo-ueve.png')} class="img-fluid" alt="Université d'Evry"/>
                 </div>
-                <h2>Login</h2>
+                <hr />
+                <div className="alert alert-info">
+                    Bienvenue sur l'EDT UEVE biologie !
+                </div>
+                <h2>Emploi du temps :</h2>
                 <Formik
                     initialValues={{
                         codeEtudiant: '',
@@ -54,12 +56,12 @@ class Login extends React.Component {
                     render={({ errors, status, touched, isSubmitting }) => (
                         <Form>
                             <div className="form-group">
-                                <label htmlFor="codeEtudiant">Code Etudiant</label>
+                                <label htmlFor="codeEtudiant">Code Etudiant :</label>
                                 <Field name="codeEtudiant" type="text" className={'form-control' + (errors.codeEtudiant && touched.codeEtudiant ? ' is-invalid' : '')} />
                                 <ErrorMessage name="codeEtudiant" component="div" className="invalid-feedback" />
                             </div>
                             <div className="form-group">
-                                <button type="submit" className="btn btn-primary" disabled={isSubmitting}>Login</button>
+                                <button type="submit" className="btn btn-success" disabled={isSubmitting}>Valider</button>
                                 {isSubmitting &&
                                     <img src="data:image/gif;base64,R0lGODlhEAAQAPIAAP///wAAAMLCwkJCQgAAAGJiYoKCgpKSkiH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCgAAACwAAAAAEAAQAAADMwi63P4wyklrE2MIOggZnAdOmGYJRbExwroUmcG2LmDEwnHQLVsYOd2mBzkYDAdKa+dIAAAh+QQJCgAAACwAAAAAEAAQAAADNAi63P5OjCEgG4QMu7DmikRxQlFUYDEZIGBMRVsaqHwctXXf7WEYB4Ag1xjihkMZsiUkKhIAIfkECQoAAAAsAAAAABAAEAAAAzYIujIjK8pByJDMlFYvBoVjHA70GU7xSUJhmKtwHPAKzLO9HMaoKwJZ7Rf8AYPDDzKpZBqfvwQAIfkECQoAAAAsAAAAABAAEAAAAzMIumIlK8oyhpHsnFZfhYumCYUhDAQxRIdhHBGqRoKw0R8DYlJd8z0fMDgsGo/IpHI5TAAAIfkECQoAAAAsAAAAABAAEAAAAzIIunInK0rnZBTwGPNMgQwmdsNgXGJUlIWEuR5oWUIpz8pAEAMe6TwfwyYsGo/IpFKSAAAh+QQJCgAAACwAAAAAEAAQAAADMwi6IMKQORfjdOe82p4wGccc4CEuQradylesojEMBgsUc2G7sDX3lQGBMLAJibufbSlKAAAh+QQJCgAAACwAAAAAEAAQAAADMgi63P7wCRHZnFVdmgHu2nFwlWCI3WGc3TSWhUFGxTAUkGCbtgENBMJAEJsxgMLWzpEAACH5BAkKAAAALAAAAAAQABAAAAMyCLrc/jDKSatlQtScKdceCAjDII7HcQ4EMTCpyrCuUBjCYRgHVtqlAiB1YhiCnlsRkAAAOwAAAAAAAAAAAA==" />
                                 }

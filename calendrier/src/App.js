@@ -4,8 +4,8 @@ import { Router, Route, Link } from 'react-router-dom';
 import { history } from './_helpers/history';
 import { authenticationService } from './_services/authentication.service';
 import { PrivateRoute } from './_components/PrivateRoute';
-import  Home  from './Home/Home';
-import  Login  from './Login/Auth';
+import Home from './Home/Home';
+import Login from './Login/Auth';
 
 class App extends React.Component {
     constructor(props) {
