@@ -7,6 +7,30 @@ import { history } from '../_helpers/history';
 import { authenticationService } from '../_services/authentication.service';
 import  getSeances  from '../_services/seances.service';
 import { handleResponse } from '../_helpers/handle-response';
+import { Ajax, L10n, loadCldr, setCulture} from '@syncfusion/ej2-base';
+
+loadCldr(
+    require('cldr-data/supplemental/numberingSystems.json'),
+    require('cldr-data/main/fr-CH/ca-gregorian.json'),
+    require('cldr-data/main/fr-CH/numbers.json'),
+    require('cldr-data/main/fr-CH/timeZoneNames.json'));
+
+L10n.load({
+  'fr-CH': {
+    'schedule': {
+      "day": "Jour",
+      "week": "Semaine",
+      "workWeek": "Semaine de Travail",
+      "month": "Mois",
+      "agenda": "Agenda",
+      "weekAgenda": "Week Agenda",
+      "workWeekAgenda": "Work Week Agenda",
+      "monthAgenda": "Month Agenda",
+      "today": "Aujourd'hui",
+    }
+  }
+});
+setCulture('fr-CH');
 
 class Home extends React.Component {
 
@@ -28,7 +52,7 @@ class Home extends React.Component {
       }]
     }
   }
-  getSeancesLocalStorage = ()=> {
+  getSeancesLocalStorage = () => {
     var groupes = JSON.parse(localStorage.getItem("groupes")).flat();
     const requestOptions = {
       method: 'GET',
@@ -70,6 +94,7 @@ class Home extends React.Component {
   render() {
     return (
       <div>
+
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <a className="navbar-brand" href="#">
           <img src={require('./Universite_Evry.png')} width="200" height="80" />
@@ -78,19 +103,22 @@ class Home extends React.Component {
             <a onClick={this.logout} id="logout-button" className="nav-item nav-link"><button className="btn btn-outline-danger" type="button">Se déconnecter</button></a>
           </div>
       </nav>
-  <ScheduleComponent height='100%' isReadOnly={true} selectedDate={new Date(2013, 9, 1)} eventSettings={{ dataSource: this.state.data,
-      fields: {
-        id: 'Id',
-        subject: { name: 'Subject' },
-        isAllDay: { name: 'IsAllDay' },
-        startTime: { name: 'StartTime' },
-        endTime: { name: 'EndTime' },
-        isReadOnly: {name: 'IsReadOnly'}
-      }
-    }}>
 
-    <Inject services={[Day, Week, WorkWeek, Month, Agenda]}/>
-    </ScheduleComponent>
+      <ScheduleComponent height='100%' readonly={true} selectedDate={new Date(2013, 9, 1)} locale='fr-CH' startHour={'08:00'} eventSettings={{ dataSource: this.state.data,
+        fields: {
+          id: 'Id',
+          subject: { name: 'Subject' },
+          isAllDay: { name: 'IsAllDay' },
+          startTime: { name: 'StartTime' },
+          endTime: { name: 'EndTime' },
+          isReadOnly: {name: 'IsReadOnly'}
+        }
+      }}>
+
+        <Inject services={[Day, Week, WorkWeek, Month, Agenda]}/>
+
+      </ScheduleComponent>
+
     </div>)
   }
 }
