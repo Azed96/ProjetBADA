@@ -62,8 +62,7 @@ app.get('/seance/:code', function(req,res) {
             db.collection('LES_ENSEIGNEMENTS').find({
                 "CODE" : element.ENSEIGNEMENT
             }).toArray(function (err, result) {
-                    console.log(result)
-                    console.log(element)
+
                     var heure_string = element.HEURE[0];
                     var date_start = new Date(element.DATE[0]);
                     var duree_string = element.DUREE[0];
@@ -89,9 +88,9 @@ app.get('/seance/:code', function(req,res) {
                     }
             
                     var date_fin = new Date(date_start);
-                    date_fin.setHours(date_start.getHours() + duree_heure);
-                    date_fin.setMinutes(date_start.getMinutes() + duree_minutes);
-            
+                    date_fin.setHours(date_fin.getHours() + parseInt(duree_heure));
+                    date_fin.setMinutes(date_fin.getMinutes() + parseInt(duree_minutes));
+                    
                     var reponse = {
                         Id: 5,
                         Subject: result[0]["NOM"][0],

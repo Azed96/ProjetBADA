@@ -4,8 +4,9 @@ import { BehaviorSubject } from 'rxjs';
 import { handleResponse } from '../_helpers/handle-response';
 
 export default function getSeances(groupes) {
+    
     groupes.forEach(groupe => {
-        console.log(groupe[0]);
+        console.log("getSeances called !");
         const requestOptions = {
             method: 'GET',
             headers: { 'Content-Type': 'application/json' }

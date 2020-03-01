@@ -41,7 +41,7 @@ class Login extends React.Component {
                         authenticationService.login(codeEtudiant)
                             .then(
                                 groupes => {
-                                    getSeances(groupes);
+                                    //getSeances(groupes);
                                     const { from } = this.props.location.state || { from: { pathname: "/" } };
                                     this.props.history.push(from);
                                 },

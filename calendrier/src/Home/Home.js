@@ -6,6 +6,7 @@ import { Router, Route, Link } from 'react-router-dom';
 import { history } from '../_helpers/history';
 import { authenticationService } from '../_services/authentication.service';
 import  getSeances  from '../_services/seances.service';
+import { handleResponse } from '../_helpers/handle-response';
 
 class Home extends React.Component {
 
@@ -27,22 +28,39 @@ class Home extends React.Component {
       }]
     }
   }
-  getSeancesLocalStaorage = ()=> {
-    var retrievedData = JSON.parse(localStorage.getItem("seances"));
-    var oldData = this.state.data;
-    retrievedData.forEach(element => {
-      element["StartTime"] = new Date(element["StartTime"]);
-      element["EndTime"] = new Date(element["EndTime"]);
-      oldData.push(element)
-    });
-    this.setState({
-      data: oldData
-    })
+  getSeancesLocalStorage = ()=> {
+    var groupes = JSON.parse(localStorage.getItem("groupes")).flat();
+    const requestOptions = {
+      method: 'GET',
+      headers: { 'Content-Type': 'application/json' }
+    };
+    groupes.forEach(groupe => {
+      console.log("getSeances called !");
+      console.log(groupe);
+      return fetch(`http://localhost:3012/seance/`+groupe, requestOptions)
+          .then(handleResponse)
+          .then(seances => {
+              // store user details and jwt token in local storage to keep user logged in between page refreshes
+              console.log(seances);
+              localStorage.setItem('seances', JSON.stringify(seances));
+              var retrievedData = JSON.parse(localStorage.getItem("seances"));
+              var oldData = this.state.data;
+              retrievedData.forEach(element => {
+                element["StartTime"] = new Date(element["StartTime"]);
+                element["EndTime"] = new Date(element["EndTime"]);
+                oldData.push(element)
+              });
+              this.setState({
+                data: oldData
+              })
+          });
+  });
+
   }
   componentDidMount() {
     authenticationService.currentUser.subscribe(x => this.setState({ currentUser: x }));
     authenticationService.groupes.subscribe(x => this.setState({ data: x }));
-    this.getSeancesLocalStaorage();
+    this.getSeancesLocalStorage();
   }
   logout() {
       authenticationService.logout();
@@ -53,14 +71,14 @@ class Home extends React.Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-          <a class="navbar-brand" href="#">
+          <a className="navbar-brand" href="#">
           <img src={require('./Universite_Evry.png')} width="200" height="80" />
           </a>
           <div className="ml-auto navbar-nav">
-            <a onClick={this.logout} id="logout-button" className="nav-item nav-link"><button class="btn btn-outline-danger" type="button">Se déconnecter</button></a>
+            <a onClick={this.logout} id="logout-button" className="nav-item nav-link"><button className="btn btn-outline-danger" type="button">Se déconnecter</button></a>
           </div>
       </nav>
-  <ScheduleComponent height='100%' isReadOnly={true} selectedDate={new Date(2020, 1, 15)} eventSettings={{ dataSource: this.state.data,
+  <ScheduleComponent height='100%' isReadOnly={true} selectedDate={new Date(2013, 9, 1)} eventSettings={{ dataSource: this.state.data,
       fields: {
         id: 'Id',
         subject: { name: 'Subject' },

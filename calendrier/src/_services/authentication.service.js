@@ -9,6 +9,7 @@ const currentGroupesSubject = new BehaviorSubject(JSON.parse(localStorage.getIte
 export const authenticationService = {
     login,
     logout,
+    getSeances,
     currentUser: currentUserSubject.asObservable(),
     groupes : currentGroupesSubject.asObservable(),
     get currentUserValue () { return currentUserSubject.value&&currentGroupesSubject }
@@ -33,6 +34,24 @@ function login(codeEtudiant) {
         });
 }
 
+function getSeances(groupes) {
+    const requestOptions = {
+        method: 'GET',
+        headers: { 'Content-Type': 'application/json' }
+    };
+    groupes.forEach(groupe => {
+        console.log("getSeances called !");
+        console.log(groupe);
+        return fetch(`http://localhost:3012/seance/`+groupe, requestOptions)
+            .then(handleResponse)
+            .then(seances => {
+                // store user details and jwt token in local storage to keep user logged in between page refreshes
+                localStorage.setItem('seances', JSON.stringify(seances));
+
+                return seances;
+            });
+    });
+}
 function logout() {
     // remove user from local storage to log user out
     localStorage.removeItem('etudiant');
