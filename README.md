@@ -13,5 +13,4 @@ Professeur : Didier Courtaud
 
 ## Documentation
 
-Nous utilisons `mongodb`.
-TEST
+Nous utilisons `mongodb`, `expressJS` pour le Back et `react-native` pour le Front.
