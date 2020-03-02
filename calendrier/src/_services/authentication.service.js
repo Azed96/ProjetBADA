@@ -31,7 +31,9 @@ function login(codeEtudiant) {
             currentUserSubject.next(codeEtudiant);
             currentGroupesSubject.next(groupes);
             return groupes;
-        });
+        })
+        .catch(error => {return error})
+        ;
 }
 
 function getSeances(groupes) {

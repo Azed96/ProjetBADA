@@ -38,12 +38,19 @@ app.get('/login/:code', function(req,res) {
     var groupes = [];
     db.collection('GROUPES').find({
         "LES_ETUDIANTS_DU_GROUPE.UN_CODE_ETUDIANT": req.params.code
-    }).toArray((err, data)=>{
+    }).toArray((err, data) => {
         data.forEach(element => {
             groupes.push(element.CODE)
             console.log(element.CODE);
-            if(groupes.length==data.length) res.send(groupes);
         });
+
+        if(groupes.length==data.length && data.length != 0){
+            console.log(data.length);
+            res.send(groupes);
+        }
+        else {
+            res.status(401).send('"message":"Nom de groupe invalide"')
+        }
         
     })
 })
