@@ -80,11 +80,13 @@ class Login extends React.Component {
                               ? " is-invalid"
                               : "")
                           }
+                          placeholder = {"11234894"}
                         />
                         <ErrorMessage
                           name="codeEtudiant"
                           component="div"
-                          className="invalid-feedback"
+                          className="alert alert-danger"
+                          style={{marginTop: "5px"}}
                         />
                       </div>
                       <div className="form-group text-center">
