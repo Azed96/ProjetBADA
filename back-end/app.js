@@ -178,7 +178,8 @@ app.get("/seance/:code", function(req, res) {
               Status: "Completed",
               Priority: "High",
               IsReadonly: true,
-              Location: "Evry"
+              Location: "Evry",
+              PrimaryColor: matieres.getColor(result[0]["NOM"][0])
             };
 
             db.collection("SALLES")

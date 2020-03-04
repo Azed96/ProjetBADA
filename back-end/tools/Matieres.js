@@ -14,5 +14,11 @@ module.exports = {
 
         return result;
     },
+    getColor: function(nomMatiere){
+        if(nomMatiere.includes("CM")){
+            return "#47bb76";
+        }
+        else return "#357cd2";
+    },
 
 };
