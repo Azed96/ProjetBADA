@@ -1,6 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
+const matieres = require("./tools/Matieres");
 
 const app = express();
 app.use(bodyParser.json());
@@ -170,7 +171,7 @@ app.get("/seance/:code", function(req, res) {
 
             var reponse = {
               Id: 5,
-              Subject: result[0]["NOM"][0],
+              Subject: matieres.getCleanedMatiereValue(result[0]["NOM"][0]),
               StartTime: new Date(date_start),
               EndTime: new Date(date_fin),
               IsAllDay: false,
