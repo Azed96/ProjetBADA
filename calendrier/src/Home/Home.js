@@ -7,7 +7,7 @@ import { history } from '../_helpers/history';
 import { authenticationService } from '../_services/authentication.service';
 import  getSeances  from '../_services/seances.service';
 import { handleResponse } from '../_helpers/handle-response';
-import { Ajax, L10n, loadCldr, setCulture} from '@syncfusion/ej2-base';
+import { Internationalization, L10n, loadCldr, setCulture} from '@syncfusion/ej2-base';
 
 loadCldr(
     require('cldr-data/supplemental/numberingSystems.json'),
@@ -36,7 +36,7 @@ class Home extends React.Component {
 
   constructor() {
     super(...arguments);
-
+    this.instance = new Internationalization();
     this.state = {
       currentUser: null,
       seances: null,
@@ -52,6 +52,7 @@ class Home extends React.Component {
       }]
     }
   }
+
   getSeancesLocalStorage = () => {
     var groupes = JSON.parse(localStorage.getItem("groupes")).flat();
     const requestOptions = {
@@ -79,16 +80,43 @@ class Home extends React.Component {
               })
           });
   });
-
   }
+
   componentDidMount() {
     authenticationService.currentUser.subscribe(x => this.setState({ currentUser: x }));
     authenticationService.groupes.subscribe(x => this.setState({ data: x }));
     this.getSeancesLocalStorage();
   }
+
   logout() {
       authenticationService.logout();
       history.push('/login');
+  }
+
+  getTimeString(start, end) {
+    var minutesStart = start.getMinutes();
+    var minutesEnd = end.getMinutes();
+
+    if(minutesStart == "0") minutesStart = "00";
+    if(minutesEnd == "0") minutesEnd = "00";
+
+    return start.getHours() + "h" + minutesStart + " - " + end.getHours() + "h" + minutesEnd;
+  }
+
+  eventTemplate(props) {
+    return (
+      <div className={props.PrimaryColor}>
+        <div className="e-subject" style={{ maxHeight: "68px" }}>
+          {props.Subject}
+        </div>
+        <div className="e-time">
+          {this.getTimeString(props.StartTime, props.EndTime)}
+        </div>
+        <div className="e-location">
+          {props.Location}
+        </div>
+      </div>
+    );
   }
 
   render() {
@@ -111,8 +139,11 @@ class Home extends React.Component {
           isAllDay: { name: 'IsAllDay' },
           startTime: { name: 'StartTime' },
           endTime: { name: 'EndTime' },
-          isReadOnly: {name: 'IsReadOnly'}
-        }
+          isReadOnly: {name: 'IsReadOnly'},
+          location : {name: 'Location'},
+          primaryColor : {name: 'PrimaryColor'}
+        },
+        template: this.eventTemplate.bind(this)
       }}>
 
         <Inject services={[Day, Week, WorkWeek, Month, Agenda]}/>

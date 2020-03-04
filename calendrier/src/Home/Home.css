@@ -51,3 +51,18 @@
 #logout-button:hover {
   cursor: pointer; 
 }
+/*
+.e-schedule .e-appointment-details{
+  padding: 0!important;
+  height: 100%;
+}
+
+.e-schedule .e-vertical-view .e-day-wrapper .e-appointment{
+  border-radius: 10px;
+}
+
+.template-wrap{
+  background: green;
+  padding: 20px;
+  height: 100%;
+}*/
