@@ -51,7 +51,7 @@
 #logout-button:hover {
   cursor: pointer; 
 }
-/*
+
 .e-schedule .e-appointment-details{
   padding: 0!important;
   height: 100%;
@@ -61,8 +61,22 @@
   border-radius: 10px;
 }
 
-.template-wrap{
-  background: green;
-  padding: 20px;
+.cours, .td{
+  padding: 5px;
   height: 100%;
-}*/
+}
+
+.cours{
+  background: black;
+}
+
+.td{
+  background: #ffca1c;
+  color: black;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.e-schedule .e-vertical-view .e-day-wrapper .e-appointment{
+  border: none;
+}

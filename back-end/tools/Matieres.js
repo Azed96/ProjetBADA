@@ -16,9 +16,9 @@ module.exports = {
     },
     getColor: function(nomMatiere){
         if(nomMatiere.includes("CM")){
-            return "#47bb76";
+            return "cours";
         }
-        else return "#357cd2";
+        else return "td";
     },
 
 };
