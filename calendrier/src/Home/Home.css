@@ -80,3 +80,7 @@
 .e-schedule .e-vertical-view .e-day-wrapper .e-appointment{
   border: none;
 }
+
+.e-quick-popup-wrapper .e-event-popup .e-popup-header, .e-popup.e-popup-open{
+  border-radius: 10px;
+}
