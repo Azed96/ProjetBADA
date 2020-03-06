@@ -132,7 +132,7 @@ class Home extends React.Component {
           </div>
       </nav>
 
-      <ScheduleComponent height='100%' readonly={true} selectedDate={new Date(2013, 9, 1)} locale='fr-CH' startHour={'08:00'} eventSettings={{ dataSource: this.state.data,
+      <ScheduleComponent height='100%' readonly={true} selectedDate={new Date(2013, 9, 1)} locale='fr-CH' startHour={'08:00'} currentView={"WorkWeek"} eventSettings={{ dataSource: this.state.data,
         fields: {
           id: 'Id',
           subject: { name: 'Subject' },
