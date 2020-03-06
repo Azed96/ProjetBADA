@@ -4,7 +4,7 @@ Professeur : Didier Courtaud
 
 ## Groupe
 
-* BOUDA Azzedine
+* BOUDA Azzeddine
 * TIMOR Brahim
 * MEDDOURI Badis
 * AMARA Samir
